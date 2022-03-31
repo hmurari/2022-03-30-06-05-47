@@ -1,0 +1,385 @@
+{
+  "image_captured_time": "2022-03-28T05:13:59.107262",
+  "object_detection_complete": true,
+  "oos_algorithm": "FULL_OOS_2",
+  "oos_inference_complete": true,
+  "session_duration": 2.0,
+  "session_end_time": "2022-03-28-05-14-01",
+  "session_id": "532f7f52-101f-4f16-8f3d-4c0a0313b69c",
+  "session_start_time": "2022-03-28-05-13-59",
+  "shelf_detection_complete": true,
+  "shelves": {
+    "bottom": {
+      "bounding_boxes": [
+        [
+          210,
+          0,
+          963,
+          330
+        ],
+        [
+          180,
+          321,
+          967,
+          782
+        ]
+      ],
+      "data": [
+        "shelf5",
+        "shelf6"
+      ],
+      "shelves": 2
+    },
+    "middle": {
+      "bounding_boxes": [
+        [
+          211,
+          216,
+          1086,
+          646
+        ],
+        [
+          191,
+          624,
+          1081,
+          959
+        ]
+      ],
+      "data": [
+        "shelf3",
+        "shelf4"
+      ],
+      "shelves": 2
+    },
+    "top": {
+      "bounding_boxes": [
+        [
+          197,
+          180,
+          967,
+          450
+        ],
+        [
+          231,
+          454,
+          935,
+          795
+        ]
+      ],
+      "data": [
+        "shelf1",
+        "shelf2"
+      ],
+      "shelves": 2
+    }
+  },
+  "status": "OOS_INFERENCE",
+  "total_shelves": 6,
+  "total_unique_shelves": 5,
+  "unique_shelf_detection_complete": true,
+  "unique_shelves": [
+    {
+      "bounding_box": [
+        197,
+        180,
+        967,
+        450
+      ],
+      "low_probability_items": [],
+      "orig_image": "top.jpg",
+      "planogram": {
+        "slots": [
+          {
+            "oos": true,
+            "product_name": "HD COT",
+            "slot_number": 1,
+            "upc": "04410011478"
+          },
+          {
+            "oos": true,
+            "product_name": "PT HD ",
+            "slot_number": 2,
+            "upc": "04410010316"
+          },
+          {
+            "oos": false,
+            "product_name": "COFFEE",
+            "slot_number": 3,
+            "upc": "05000069225"
+          },
+          {
+            "oos": false,
+            "product_name": "COFFMT",
+            "slot_number": 4,
+            "upc": "05000056024"
+          },
+          {
+            "oos": false,
+            "product_name": "CFE-MA",
+            "slot_number": 5,
+            "upc": "05000065286"
+          },
+          {
+            "oos": false,
+            "product_name": "CHOB C",
+            "slot_number": 6,
+            "upc": "81829001692"
+          },
+          {
+            "oos": false,
+            "product_name": "CHOB C",
+            "slot_number": 7,
+            "upc": "81829001693"
+          },
+          {
+            "oos": false,
+            "product_name": "BETTER",
+            "slot_number": 8,
+            "upc": "81363602023"
+          },
+          {
+            "oos": false,
+            "product_name": "BETTER",
+            "slot_number": 9,
+            "upc": "81363602022"
+          }
+        ],
+        "slots_count": 9
+      },
+      "shelf_image": "top-shelf1.jpg",
+      "shelf_name": "shelf1",
+      "shelf_number": 1
+    },
+    {
+      "bounding_box": [
+        231,
+        454,
+        935,
+        795
+      ],
+      "low_probability_items": [],
+      "orig_image": "top.jpg",
+      "planogram": {
+        "slots": [
+          {
+            "oos": false,
+            "product_name": "QT HD ",
+            "slot_number": 1,
+            "upc": "04410010367"
+          },
+          {
+            "oos": false,
+            "product_name": "EXTRA ",
+            "slot_number": 2,
+            "upc": "04127101788"
+          },
+          {
+            "oos": false,
+            "product_name": "EXTRA ",
+            "slot_number": 3,
+            "upc": "04127101788"
+          },
+          {
+            "oos": false,
+            "product_name": "DD VAN",
+            "slot_number": 4,
+            "upc": "04127102700"
+          },
+          {
+            "oos": false,
+            "product_name": "DD VAN",
+            "slot_number": 5,
+            "upc": "04127102700"
+          },
+          {
+            "oos": false,
+            "product_name": "INTRNA",
+            "slot_number": 6,
+            "upc": "04127102564"
+          },
+          {
+            "oos": false,
+            "product_name": "INT DE",
+            "slot_number": 7,
+            "upc": "04127100955"
+          }
+        ],
+        "slots_count": 7
+      },
+      "shelf_image": "top-shelf2.jpg",
+      "shelf_name": "shelf2",
+      "shelf_number": 2
+    },
+    {
+      "bounding_box": [
+        211,
+        216,
+        1086,
+        646
+      ],
+      "low_probability_items": [],
+      "orig_image": "middle.jpg",
+      "planogram": {
+        "slots": [
+          {
+            "oos": false,
+            "product_name": "TROP P",
+            "slot_number": 1,
+            "upc": "04850020274"
+          },
+          {
+            "oos": false,
+            "product_name": "TROP P",
+            "slot_number": 2,
+            "upc": "04850020274"
+          },
+          {
+            "oos": false,
+            "product_name": "TROP O",
+            "slot_number": 3,
+            "upc": "04850020277"
+          },
+          {
+            "oos": false,
+            "product_name": "TROP O",
+            "slot_number": 4,
+            "upc": "04850020277"
+          },
+          {
+            "oos": false,
+            "product_name": "TANGY ",
+            "slot_number": 5,
+            "upc": "05020000821"
+          },
+          {
+            "oos": false,
+            "product_name": "TANGY ",
+            "slot_number": 6,
+            "upc": "05020000821"
+          }
+        ],
+        "slots_count": 6
+      },
+      "shelf_image": "middle-shelf3.jpg",
+      "shelf_name": "shelf3",
+      "shelf_number": 3
+    },
+    {
+      "bounding_box": [
+        191,
+        624,
+        1081,
+        959
+      ],
+      "low_probability_items": [],
+      "orig_image": "middle.jpg",
+      "planogram": {
+        "slots": [
+          {
+            "oos": false,
+            "product_name": "SIMPLY",
+            "slot_number": 1,
+            "upc": "02500010000"
+          },
+          {
+            "oos": false,
+            "product_name": "SIMPLY",
+            "slot_number": 2,
+            "upc": "02500010000"
+          },
+          {
+            "oos": false,
+            "product_name": "SIMPLY",
+            "slot_number": 3,
+            "upc": "02500004080"
+          },
+          {
+            "oos": false,
+            "product_name": "SIMPLY",
+            "slot_number": 4,
+            "upc": "02500004498"
+          },
+          {
+            "oos": false,
+            "product_name": "SIMPLY",
+            "slot_number": 5,
+            "upc": "02500004498"
+          },
+          {
+            "oos": false,
+            "product_name": "SIMPLY",
+            "slot_number": 6,
+            "upc": "02500004490"
+          }
+        ],
+        "slots_count": 6
+      },
+      "shelf_image": "middle-shelf4.jpg",
+      "shelf_name": "shelf4",
+      "shelf_number": 4
+    },
+    {
+      "bounding_box": [
+        180,
+        321,
+        967,
+        782
+      ],
+      "low_probability_items": [],
+      "orig_image": "bottom.jpg",
+      "planogram": {
+        "slots": [
+          {
+            "oos": true,
+            "product_name": "NELLIE",
+            "slot_number": 1,
+            "upc": "81565200418"
+          },
+          {
+            "oos": true,
+            "product_name": "NELLIE",
+            "slot_number": 2,
+            "upc": "81565200418"
+          },
+          {
+            "oos": true,
+            "product_name": "MITLY ",
+            "slot_number": 3,
+            "upc": "03922200003"
+          },
+          {
+            "oos": true,
+            "product_name": "OM HW ",
+            "slot_number": 4,
+            "upc": "04471001988"
+          },
+          {
+            "oos": false,
+            "product_name": "CABOT ",
+            "slot_number": 5,
+            "upc": "07835462011"
+          },
+          {
+            "oos": false,
+            "product_name": "HOOD W",
+            "slot_number": 6,
+            "upc": "04410056002"
+          },
+          {
+            "oos": false,
+            "product_name": "HOOD S",
+            "slot_number": 7,
+            "upc": "04410010196"
+          }
+        ],
+        "slots_count": 7
+      },
+      "shelf_image": "bottom-shelf5.jpg",
+      "shelf_name": "shelf5",
+      "shelf_number": 5
+    }
+  ],
+  "web_results": {
+    "session_id": "532f7f52-101f-4f16-8f3d-4c0a0313b69c"
+  }
+}

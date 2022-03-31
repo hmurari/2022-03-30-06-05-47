@@ -1,0 +1,591 @@
+{
+  "error": false,
+  "device": {
+    "shelf_model": {
+      "category": "beverages",
+      "version": "2.5.onnx",
+      "revision_counts": 5
+    },
+    "object_model": {
+      "category": "beverages",
+      "version": "2.0.onnx",
+      "revision_counts": 5
+    },
+    "oos_classification_model": {
+      "category": "beverages",
+      "version": "2.8_cvs.onnx",
+      "revision_counts": 5
+    },
+    "config": {
+      "max_sessions_counter": 1,
+      "border_width_opt": false,
+      "stretch_fit": false
+    },
+    "image_collection": true,
+    "debug_mode": false,
+    "shelf_detection": true,
+    "duplicate_shelf_detection": true,
+    "object_detection": true,
+    "oos_inference": true,
+    "enabled": true,
+    "oos_type": "Full OOS 2",
+    "oos_automation": false,
+    "bandwidth_reduction": true,
+    "oos_automation_comment": "02-03-2022 - Manual Remote Concierge Monitoring",
+    "_id": "60adbd08422769157ce9e2dd",
+    "device_id": "cvs-00590-001-0002",
+    "__v": 0,
+    "shelf_config": {
+      "top": [
+        {
+          "data": [
+            "shelf1",
+            "shelf2"
+          ],
+          "shelves": 2
+        },
+        {
+          "data": [
+            "shelf1",
+            "shelf2",
+            "ignore"
+          ],
+          "shelves": 2
+        },
+        {
+          "data": [
+            "shelf1",
+            "shelf2",
+            "ignore",
+            "ignore"
+          ],
+          "shelves": 2
+        }
+      ],
+      "middle": [
+        {
+          "data": [
+            "shelf3",
+            "shelf4"
+          ],
+          "shelves": 2
+        },
+        {
+          "data": [
+            "ignore",
+            "shelf3",
+            "shelf4"
+          ],
+          "shelves": 2
+        },
+        {
+          "data": [
+            "ignore",
+            "shelf3",
+            "shelf4",
+            "ignore"
+          ],
+          "shelves": 2
+        }
+      ],
+      "bottom": [
+        {
+          "data": [
+            "shelf5"
+          ],
+          "shelves": 1
+        },
+        {
+          "data": [
+            "ignore",
+            "shelf5"
+          ],
+          "shelves": 1
+        },
+        {
+          "data": [
+            "ignore",
+            "ignore",
+            "shelf5"
+          ],
+          "shelves": 1
+        }
+      ],
+      "shelfCount": 5
+    },
+    "planogram": {
+      "device_id": "cvs-00590-001-0002",
+      "category": "Beverages",
+      "products": [
+        {
+          "product_image": "https://coolerassets.blob.core.windows.net/planogram-images/0044100114786_C1C1_STACKED.png",
+          "product_width": "224px",
+          "product_type": "Beverages",
+          "upc": "04410011478",
+          "product_name": "HD COTT CHS SNGL",
+          "product_height": "",
+          "brand_name": ""
+        },
+        {
+          "product_image": "https://coolerassets.blob.core.windows.net/planogram-images/0044100103162_C1C1.png",
+          "product_width": "152px",
+          "product_type": "Beverages",
+          "upc": "04410010316",
+          "product_name": "PT HD H&H",
+          "product_height": "",
+          "brand_name": ""
+        },
+        {
+          "product_image": "https://coolerassets.blob.core.windows.net/planogram-images/0050000692255_C1C1.png",
+          "product_width": "161px",
+          "product_type": "Beverages",
+          "upc": "05000069225",
+          "product_name": "COFFEEMATE FR VAN",
+          "product_height": "",
+          "brand_name": ""
+        },
+        {
+          "product_image": "https://coolerassets.blob.core.windows.net/planogram-images/0050000560240_C1C1.png",
+          "product_width": "161px",
+          "product_type": "Beverages",
+          "upc": "05000056024",
+          "product_name": "COFFMTE HAZELNUT",
+          "product_height": "",
+          "brand_name": ""
+        },
+        {
+          "product_image": "https://coolerassets.blob.core.windows.net/planogram-images/0050000652860_C1C1.png",
+          "product_width": "161px",
+          "product_type": "Beverages",
+          "upc": "05000065286",
+          "product_name": "CFE-MATE SWET CREM",
+          "product_height": "",
+          "brand_name": ""
+        },
+        {
+          "product_image": "https://coolerassets.blob.core.windows.net/planogram-images/0818290016928_C1C1.png",
+          "product_width": "162px",
+          "product_type": "Beverages",
+          "upc": "81829001692",
+          "product_name": "CHOB CREAM UNSWT",
+          "product_height": "",
+          "brand_name": ""
+        },
+        {
+          "product_image": "https://coolerassets.blob.core.windows.net/planogram-images/0818290016935_C1C1.png",
+          "product_width": "162px",
+          "product_type": "Beverages",
+          "upc": "81829001693",
+          "product_name": "CHOB CREAM VAN",
+          "product_height": "",
+          "brand_name": ""
+        },
+        {
+          "product_image": "https://coolerassets.blob.core.windows.net/planogram-images/0813636020232_C1C1.png",
+          "product_width": "197px",
+          "product_type": "Beverages",
+          "upc": "81363602023",
+          "product_name": "BETTERHALF ORIG",
+          "product_height": "",
+          "brand_name": ""
+        },
+        {
+          "product_image": "https://coolerassets.blob.core.windows.net/planogram-images/0813636020225_C1C1.png",
+          "product_width": "197px",
+          "product_type": "Beverages",
+          "upc": "81363602022",
+          "product_name": "BETTERHALF UNSW",
+          "product_height": "",
+          "brand_name": ""
+        },
+        {
+          "product_image": "https://coolerassets.blob.core.windows.net/planogram-images/0044100103674_C1C1.png",
+          "product_width": "176px",
+          "product_type": "Beverages",
+          "upc": "04410010367",
+          "product_name": "QT HD H&H",
+          "product_height": "",
+          "brand_name": ""
+        },
+        {
+          "product_image": "https://coolerassets.blob.core.windows.net/planogram-images/0041271017885_C1C1.png",
+          "product_width": "207px",
+          "product_type": "Beverages",
+          "upc": "04127101788",
+          "product_name": "EXTRA EXTRA",
+          "product_height": "",
+          "brand_name": ""
+        },
+        {
+          "product_image": "https://coolerassets.blob.core.windows.net/planogram-images/0041271027006_C1C1.png",
+          "product_width": "207px",
+          "product_type": "Beverages",
+          "upc": "04127102700",
+          "product_name": "DD VANILLA",
+          "product_height": "",
+          "brand_name": ""
+        },
+        {
+          "product_image": "https://coolerassets.blob.core.windows.net/planogram-images/0041271025644_C1C1.png",
+          "product_width": "207px",
+          "product_type": "Beverages",
+          "upc": "04127102564",
+          "product_name": "INTRNATIONAL DLGHT",
+          "product_height": "",
+          "brand_name": ""
+        },
+        {
+          "product_image": "https://coolerassets.blob.core.windows.net/planogram-images/0041271009552_C1C1.png",
+          "product_width": "207px",
+          "product_type": "Beverages",
+          "upc": "04127100955",
+          "product_name": "INT DEL CAR MACH",
+          "product_height": "",
+          "brand_name": ""
+        },
+        {
+          "product_image": "https://coolerassets.blob.core.windows.net/planogram-images/0048500202746_C1C1.png",
+          "product_width": "253px",
+          "product_type": "Beverages",
+          "upc": "04850020274",
+          "product_name": "TROP PURE PREM OJ",
+          "product_height": "",
+          "brand_name": ""
+        },
+        {
+          "product_image": "https://coolerassets.blob.core.windows.net/planogram-images/0048500202777_C1C1.png",
+          "product_width": "253px",
+          "product_type": "Beverages",
+          "upc": "04850020277",
+          "product_name": "TROP OJ W/ CALCIUM",
+          "product_height": "",
+          "brand_name": ""
+        },
+        {
+          "product_image": "https://coolerassets.blob.core.windows.net/planogram-images/0050200008214_C1C1.png",
+          "product_width": "240px",
+          "product_type": "Beverages",
+          "upc": "05020000821",
+          "product_name": "TANGY ORIG SUNNYD",
+          "product_height": "",
+          "brand_name": ""
+        },
+        {
+          "product_image": "https://coolerassets.blob.core.windows.net/planogram-images/0025000100000_C1C1.png",
+          "product_width": "233px",
+          "product_type": "Beverages",
+          "upc": "02500010000",
+          "product_name": "SIMPLY ORNGE JUICE",
+          "product_height": "",
+          "brand_name": ""
+        },
+        {
+          "product_image": "https://coolerassets.blob.core.windows.net/planogram-images/0025000040801_C1C1.png",
+          "product_width": "233px",
+          "product_type": "Beverages",
+          "upc": "02500004080",
+          "product_name": "SIMPLY ORANGE MANG",
+          "product_height": "",
+          "brand_name": ""
+        },
+        {
+          "product_image": "https://coolerassets.blob.core.windows.net/planogram-images/0025000044984_C1C1.png",
+          "product_width": "233px",
+          "product_type": "Beverages",
+          "upc": "02500004498",
+          "product_name": "SIMPLY LEMONADE",
+          "product_height": "",
+          "brand_name": ""
+        },
+        {
+          "product_image": "https://coolerassets.blob.core.windows.net/planogram-images/0025000044908_C1C1.png",
+          "product_width": "233px",
+          "product_type": "Beverages",
+          "upc": "02500004490",
+          "product_name": "SIMPLY LMNADE RSPB",
+          "product_height": "",
+          "brand_name": ""
+        },
+        {
+          "product_image": "https://coolerassets.blob.core.windows.net/planogram-images/0815652004180_C2C1_Triplestack.png",
+          "product_width": "223px",
+          "product_type": "Beverages",
+          "upc": "81565200418",
+          "product_name": "NELLIE FR EGGS",
+          "product_height": "",
+          "brand_name": ""
+        },
+        {
+          "product_image": "https://coolerassets.blob.core.windows.net/planogram-images/0039222000031_C1C1.png",
+          "product_width": "223px",
+          "product_type": "Beverages",
+          "upc": "03922200003",
+          "product_name": "MITLY LG GRD A EGG",
+          "product_height": "",
+          "brand_name": ""
+        },
+        {
+          "product_image": "https://coolerassets.blob.core.windows.net/planogram-images/0044710019884_C1C1.png",
+          "product_width": "628px",
+          "product_type": "Beverages",
+          "upc": "04471001988",
+          "product_name": "OM HW SMOKE BACON",
+          "product_height": "",
+          "brand_name": ""
+        },
+        {
+          "product_image": "https://coolerassets.blob.core.windows.net/planogram-images/0078354620113_C1C1.png",
+          "product_width": "282px",
+          "product_type": "Beverages",
+          "upc": "07835462011",
+          "product_name": "CABOT BUTTER QTRS",
+          "product_height": "",
+          "brand_name": ""
+        },
+        {
+          "product_image": "https://coolerassets.blob.core.windows.net/planogram-images/0044100560026_C1C1.png",
+          "product_width": "156px",
+          "product_type": "Beverages",
+          "upc": "04410056002",
+          "product_name": "HOOD WHIPPED CREAM",
+          "product_height": "",
+          "brand_name": ""
+        },
+        {
+          "product_image": "https://coolerassets.blob.core.windows.net/planogram-images/0044100101960_C1C1.png",
+          "product_width": "230px",
+          "product_type": "Beverages",
+          "upc": "04410010196",
+          "product_name": "HOOD SOUR CREAM",
+          "product_height": "",
+          "brand_name": ""
+        }
+      ],
+      "shelves": [
+        {
+          "shelf_height": "400px",
+          "shelf_number": 1,
+          "shelf_width": "",
+          "items_count": 9,
+          "items": [
+            {
+              "slot_number": 1,
+              "slot_width": "",
+              "upc": "04410011478"
+            },
+            {
+              "slot_number": 2,
+              "slot_width": "",
+              "upc": "04410010316"
+            },
+            {
+              "slot_number": 3,
+              "slot_width": "",
+              "upc": "05000069225"
+            },
+            {
+              "slot_number": 4,
+              "slot_width": "",
+              "upc": "05000056024"
+            },
+            {
+              "slot_number": 5,
+              "slot_width": "",
+              "upc": "05000065286"
+            },
+            {
+              "slot_number": 6,
+              "slot_width": "",
+              "upc": "81829001692"
+            },
+            {
+              "slot_number": 7,
+              "slot_width": "",
+              "upc": "81829001693"
+            },
+            {
+              "slot_number": 8,
+              "slot_width": "",
+              "upc": "81363602023"
+            },
+            {
+              "slot_number": 9,
+              "slot_width": "",
+              "upc": "81363602022"
+            }
+          ]
+        },
+        {
+          "shelf_height": "400px",
+          "shelf_number": 2,
+          "shelf_width": "",
+          "items_count": 7,
+          "items": [
+            {
+              "slot_number": 1,
+              "slot_width": "",
+              "upc": "04410010367"
+            },
+            {
+              "slot_number": 2,
+              "slot_width": "",
+              "upc": "04127101788"
+            },
+            {
+              "slot_number": 3,
+              "slot_width": "",
+              "upc": "04127101788"
+            },
+            {
+              "slot_number": 4,
+              "slot_width": "",
+              "upc": "04127102700"
+            },
+            {
+              "slot_number": 5,
+              "slot_width": "",
+              "upc": "04127102700"
+            },
+            {
+              "slot_number": 6,
+              "slot_width": "",
+              "upc": "04127102564"
+            },
+            {
+              "slot_number": 7,
+              "slot_width": "",
+              "upc": "04127100955"
+            }
+          ]
+        },
+        {
+          "shelf_height": "400px",
+          "shelf_number": 3,
+          "shelf_width": "",
+          "items_count": 6,
+          "items": [
+            {
+              "slot_number": 1,
+              "slot_width": "",
+              "upc": "04850020274"
+            },
+            {
+              "slot_number": 2,
+              "slot_width": "",
+              "upc": "04850020274"
+            },
+            {
+              "slot_number": 3,
+              "slot_width": "",
+              "upc": "04850020277"
+            },
+            {
+              "slot_number": 4,
+              "slot_width": "",
+              "upc": "04850020277"
+            },
+            {
+              "slot_number": 5,
+              "slot_width": "",
+              "upc": "05020000821"
+            },
+            {
+              "slot_number": 6,
+              "slot_width": "",
+              "upc": "05020000821"
+            }
+          ]
+        },
+        {
+          "shelf_height": "400px",
+          "shelf_number": 4,
+          "shelf_width": "",
+          "items_count": 6,
+          "items": [
+            {
+              "slot_number": 1,
+              "slot_width": "",
+              "upc": "02500010000"
+            },
+            {
+              "slot_number": 2,
+              "slot_width": "",
+              "upc": "02500010000"
+            },
+            {
+              "slot_number": 3,
+              "slot_width": "",
+              "upc": "02500004080"
+            },
+            {
+              "slot_number": 4,
+              "slot_width": "",
+              "upc": "02500004498"
+            },
+            {
+              "slot_number": 5,
+              "slot_width": "",
+              "upc": "02500004498"
+            },
+            {
+              "slot_number": 6,
+              "slot_width": "",
+              "upc": "02500004490"
+            }
+          ]
+        },
+        {
+          "shelf_height": "400px",
+          "shelf_number": 5,
+          "shelf_width": "",
+          "items_count": 7,
+          "items": [
+            {
+              "slot_number": 1,
+              "slot_width": "",
+              "upc": "81565200418"
+            },
+            {
+              "slot_number": 2,
+              "slot_width": "",
+              "upc": "81565200418"
+            },
+            {
+              "slot_number": 3,
+              "slot_width": "",
+              "upc": "03922200003"
+            },
+            {
+              "slot_number": 4,
+              "slot_width": "",
+              "upc": "04471001988"
+            },
+            {
+              "slot_number": 5,
+              "slot_width": "",
+              "upc": "07835462011"
+            },
+            {
+              "slot_number": 6,
+              "slot_width": "",
+              "upc": "04410056002"
+            },
+            {
+              "slot_number": 7,
+              "slot_width": "",
+              "upc": "04410010196"
+            }
+          ]
+        }
+      ]
+    },
+    "shelves_oos_enabled": {
+      "shelf1": true,
+      "shelf2": true,
+      "shelf3": true,
+      "shelf4": true,
+      "shelf5": true
+    },
+    "last_rva_update": 20210710202625
+  }
+}

@@ -1,0 +1,78 @@
+2022-03-28 05:13:59 - INF - sessions.py:103 - = = = = = = = = = = Created session: 532f7f52-101f-4f16-8f3d-4c0a0313b69c = = = = = = = = = =
+2022-03-28 05:13:59 - INF - sessions.py:104 - ---- Device ID       : cvs-00590-001-0002
+2022-03-28 05:13:59 - INF - sessions.py:105 - ---- Category        : beverages
+2022-03-28 05:13:59 - INF - sessions.py:106 - ---- Local Time      : 2022-03-28: 05:13:59
+2022-03-28 05:13:59 - INF - sessions.py:107 - ---- Image Captured  : 2022-03-28T05:13:59.107262
+2022-03-28 05:13:59 - INF - sessions.py:108 - ---- Session Started : 2022-03-28-05-13-59
+2022-03-28 05:13:59 - INF - sessions.py:109 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2022-03-28 05:13:59 - INF - shelf_detection.py:296 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+2022-03-28 05:13:59 - INF - shelf_detection.py:297 - Shelf detection: Session 532f7f52-101f-4f16-8f3d-4c0a0313b69c
+2022-03-28 05:13:59 - INF - shelf_detection.py:365 - [0.06s] [GOOD]: bottom.jpg    Shelves:2 Min:1 BigGaps:0 BadAngle:0(25%) BadWidth:0 (59%)  [1.0, 1.0]
+2022-03-28 05:13:59 - INF - shelf_detection.py:365 - [0.06s] [GOOD]: middle.jpg    Shelves:2 Min:2 BigGaps:0 BadAngle:0(15%) BadWidth:0 (68%)  [1.0, 0.99]
+2022-03-28 05:13:59 - INF - shelf_detection.py:365 - [0.06s] [GOOD]: top.jpg       Shelves:2 Min:2 BigGaps:0 BadAngle:0(26%) BadWidth:0 (55%)  [1.0, 0.99, 0.69]
+2022-03-28 05:13:59 - INF - shelf_detection.py:404 - [0.44s] Shelf detection complete.
+2022-03-28 05:13:59 - INF - shelf_detection.py:408 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+2022-03-28 05:13:59 - INF - shelf_detection.py:409 - Unique Shelf detection: Session 532f7f52-101f-4f16-8f3d-4c0a0313b69c
+2022-03-28 05:14:00 - ERR - shelf_detection.py:434 - ---- Skipping top-0 image, not available.
+2022-03-28 05:14:00 - ERR - shelf_detection.py:434 - ---- Skipping middle-0 image, not available.
+2022-03-28 05:14:00 - ERR - shelf_detection.py:434 - ---- Skipping bottom-0 image, not available.
+2022-03-28 05:14:00 - ERR - shelf_detection.py:434 - ---- Skipping top-1 image, not available.
+2022-03-28 05:14:00 - ERR - shelf_detection.py:434 - ---- Skipping middle-1 image, not available.
+2022-03-28 05:14:00 - ERR - shelf_detection.py:434 - ---- Skipping bottom-1 image, not available.
+2022-03-28 05:14:00 - INF - shelf_detection.py:492 - ---- Populate planogram and slots info
+2022-03-28 05:14:00 - INF - shelf_detection.py:510 - ---- Adding planogram/slot info complete.
+2022-03-28 05:14:00 - INF - shelf_detection.py:521 - [0.41s] Detected 5 unique shelves.
+2022-03-28 05:14:00 - INF - shelf_detection.py:522 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2022-03-28 05:14:00 - INF - object_detection.py:153 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+2022-03-28 05:14:00 - INF - object_detection.py:154 - Beginning Object detection for session: 532f7f52-101f-4f16-8f3d-4c0a0313b69c
+2022-03-28 05:14:00 - INF - object_detection.py:279 - [0.01s] Shelf  1, Objects found  4/9
+2022-03-28 05:14:00 - INF - object_detection.py:279 - [0.02s] Shelf  2, Objects found  7/7
+2022-03-28 05:14:00 - INF - object_detection.py:279 - [0.02s] Shelf  3, Objects found  6/6
+2022-03-28 05:14:00 - INF - object_detection.py:279 - [0.02s] Shelf  4, Objects found  6/6
+2022-03-28 05:14:00 - INF - object_detection.py:279 - [0.02s] Shelf  5, Objects found  2/7
+2022-03-28 05:14:00 - INF - object_detection.py:293 - [0.10s] Object detection for image set: Shelves 5, Detected Objects 25/35 (71%)
+2022-03-28 05:14:00 - INF - object_detection.py:293 - [0.10s] Object detection for image set: Shelves 5, Detected Objects 0/35 (0%)
+2022-03-28 05:14:00 - INF - object_detection.py:293 - [0.10s] Object detection for image set: Shelves 5, Detected Objects 0/35 (0%)
+2022-03-28 05:14:00 - INF - full_oos2.py:204 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+2022-03-28 05:14:00 - INF - full_oos2.py:205 - Beginning OOS Inference for session: 532f7f52-101f-4f16-8f3d-4c0a0313b69c
+2022-03-28 05:14:00 - INF - full_oos2.py:228 - ----- Assigning slots to items.
+2022-03-28 05:14:00 - INF - full_oos2.py:172 - ----- ----- Shelf1: Matched slots: 5/9
+2022-03-28 05:14:00 - INF - full_oos2.py:172 - ----- ----- Shelf2: Matched slots: 7/7
+2022-03-28 05:14:00 - INF - full_oos2.py:172 - ----- ----- Shelf3: Matched slots: 6/6
+2022-03-28 05:14:00 - INF - full_oos2.py:172 - ----- ----- Shelf4: Matched slots: 6/6
+2022-03-28 05:14:00 - INF - full_oos2.py:172 - ----- ----- Shelf5: Matched slots: 2/7
+2022-03-28 05:14:00 - INF - full_oos2.py:232 - ----- Assigning slots to items complete.
+2022-03-28 05:14:00 - INF - full_oos2.py:236 - ----- Running Slot level OOS inference.
+2022-03-28 05:14:00 - INF - full_oos2.py:279 - ----- ----- Slot OOS: Shelf  1, Slot  0, OOS:  TRUE (1.00)                    Duration: 0.01s.
+2022-03-28 05:14:00 - INF - full_oos2.py:279 - ----- ----- Slot OOS: Shelf  1, Slot  1, OOS:  TRUE (1.00)                    Duration: 0.01s.
+2022-03-28 05:14:00 - INF - full_oos2.py:279 - ----- ----- Slot OOS: Shelf  1, Slot  2, OOS: FALSE (0.00)                    Duration: 0.01s.
+2022-03-28 05:14:00 - INF - full_oos2.py:279 - ----- ----- Slot OOS: Shelf  1, Slot  6, OOS: FALSE (0.00)                    Duration: 0.01s.
+2022-03-28 05:14:00 - INF - full_oos2.py:279 - ----- ----- Slot OOS: Shelf  5, Slot  0, OOS:  TRUE (1.00)                    Duration: 0.01s.
+2022-03-28 05:14:00 - INF - full_oos2.py:279 - ----- ----- Slot OOS: Shelf  5, Slot  1, OOS:  TRUE (1.00)                    Duration: 0.01s.
+2022-03-28 05:14:00 - INF - full_oos2.py:279 - ----- ----- Slot OOS: Shelf  5, Slot  2, OOS:  TRUE (1.00)                    Duration: 0.01s.
+2022-03-28 05:14:00 - INF - full_oos2.py:279 - ----- ----- Slot OOS: Shelf  5, Slot  3, OOS:  TRUE (1.00)                    Duration: 0.01s.
+2022-03-28 05:14:00 - INF - full_oos2.py:279 - ----- ----- Slot OOS: Shelf  5, Slot  5, OOS: FALSE (0.00)                    Duration: 0.01s.
+2022-03-28 05:14:00 - INF - full_oos2.py:299 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2022-03-28 05:14:00 - INF - full_oos2.py:299 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2022-03-28 05:14:00 - INF - full_oos2.py:299 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2022-03-28 05:14:00 - INF - full_oos2.py:301 - [0.12s] Slot level OOS inference complete.
+2022-03-28 05:14:00 - INF - full_oos2.py:302 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2022-03-28 05:14:00 - INF - full_oos2.py:306 - Combined OOS inference results
+2022-03-28 05:14:00 - INF - full_oos2.py:334 - ----- Shelf  1, Items  4 Matched/Slots:  5/ 9, Overlaps  0, OOS  2
+2022-03-28 05:14:00 - INF - full_oos2.py:334 - ----- Shelf  2, Items  7 Matched/Slots:  7/ 7, Overlaps  0, OOS  0
+2022-03-28 05:14:00 - INF - full_oos2.py:334 - ----- Shelf  3, Items  6 Matched/Slots:  6/ 6, Overlaps  0, OOS  0
+2022-03-28 05:14:00 - INF - full_oos2.py:334 - ----- Shelf  4, Items  6 Matched/Slots:  6/ 6, Overlaps  0, OOS  0
+2022-03-28 05:14:00 - INF - full_oos2.py:334 - ----- Shelf  5, Items  2 Matched/Slots:  2/ 7, Overlaps  0, OOS  4
+2022-03-28 05:14:00 - INF - full_oos2.py:339 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+2022-03-28 05:14:01 - INF - full_oos2.py:387 - [1.04s] Combined OOS inference: Shelves 5, Overlaps 0, OOS 6/35 (17.14%)
+2022-03-28 05:14:01 - INF - full_oos2.py:343 - [1.05s] Mark slots/items complete.
+2022-03-28 05:14:01 - INF - full_oos2.py:351 - [1.19s] Full OOS2 Complete.
+2022-03-28 05:14:01 - INF - full_oos2.py:352 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+2022-03-28 05:14:01 - INF - sessions.py:604 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2022-03-28 05:14:01 - INF - sessions_data_upload.py:87 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2022-03-28 05:14:01 - INF - sessions_data_upload.py:88 - [BANDWIDTH SAVER] : [984KB] Upload Bandwidth Saved [Skip uploading session images]
+2022-03-28 05:14:01 - INF - sessions_data_upload.py:89 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2022-03-28 05:14:01 - INF - sessions.py:620 - ---- ORIGINAL SESSION RESULTS SIZE: [27.64]KB
+2022-03-28 05:14:01 - INF - sessions.py:628 - ---- REDUCED  SESSION RESULTS SIZE: [5.05]KB
+2022-03-28 05:14:01 - INF - sessions.py:629 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2022-03-28 05:14:01 - INF - logger.py:92 - = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =

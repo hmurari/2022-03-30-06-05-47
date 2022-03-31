@@ -1,0 +1,2447 @@
+{
+  "coolerId": "607e038d478494593836f911",
+  "name": "CVS-00590-001-0002",
+  "storename": "CVS00590",
+  "pricetag": "Y",
+  "clarityCardText": "more of this great product coming soon",
+  "coolerCategory": "Beverages",
+  "adaptablepricetag": "Y",
+  "tagconfig": {
+    "banner_background_color": "#FFEF65",
+    "banner_font_color": "#000000",
+    "unit_price_display": "small",
+    "unit_price_location": "right",
+    "unit_price_background_color": "#FFEF65",
+    "retail_price_background_color": "#FFFFFF",
+    "retail_price_font_color": "#000000",
+    "unit_price_font_color": "#000000",
+    "promo_price_background_color": "#FFEF65",
+    "promo_price_font_color": "#000000",
+    "promo_expiration_display": "left",
+    "bottom_bar_background_color": "#FFEF65",
+    "retail_bottom_bar_background_color": "#F7A14C",
+    "promo_bottom_bar_background_color": "#FFEF65",
+    "product_name_and_size_display": "do_not_display",
+    "promo_offer_type": [
+      {
+        "name": "Weekly",
+        "banner_background_color": "#FFEF65",
+        "banner_font_color": "black"
+      },
+      {
+        "name": "Price Cut",
+        "banner_background_color": "#FFEF65",
+        "banner_font_color": "black"
+      }
+    ],
+    "retail_offer_type": [
+      {
+        "name": "buy more & save",
+        "banner_background_color": "#FFEF65",
+        "banner_font_color": "#000000"
+      },
+      {
+        "name": "Buy 2 or More & Save",
+        "banner_background_color": "#FFEF65",
+        "banner_font_color": "#000000"
+      },
+      {
+        "name": "Buy 2 or More",
+        "banner_background_color": "#FFEF65",
+        "banner_font_color": "#000000"
+      }
+    ]
+  },
+  "isOutOfOrder": null,
+  "priceTagConfig": {
+    "version": {
+      "versionID": "CVS-1",
+      "configName": "CVS Unit Price Small"
+    },
+    "isEnabled": true,
+    "isPromoEnabled": true,
+    "isOnePerSkuEnabled": true,
+    "proximityDisplay": "all",
+    "proximityTransitionType": "fade",
+    "proximityTransitionInDuration": 500,
+    "proximityTransitionOutDuration": 500,
+    "transitionIsEnabled": true,
+    "transitionType": "fade",
+    "transitionInDuration": 250,
+    "transitionOutDuration": 250,
+    "state1Duration": 3000,
+    "state2Duration": 3000,
+    "alignment": "left",
+    "widthMin": 120,
+    "widthMax": 200,
+    "height": "responsive",
+    "dropShadow": "none",
+    "unitPrice": {
+      "isEnabled": true,
+      "display": "small",
+      "displayLargeBackgroundColor": "",
+      "displayLargeLocation": ""
+    },
+    "retailBanner": {
+      "isEnabled": true,
+      "backgroundColor": "#FFEF65"
+    },
+    "retailBannerLargeText": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "bold",
+      "fontSize": 20,
+      "fontLineHeight": 22
+    },
+    "retailBannerSmallText": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "bold",
+      "fontSize": 9,
+      "fontLineHeight": 10
+    },
+    "retailQuantity": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "bold",
+      "fontSize": 25,
+      "fontLineHeight": 30
+    },
+    "retailQuantitySlash": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "bold",
+      "fontSize": 25,
+      "fontLineHeight": 30
+    },
+    "retailPrice": {
+      "backgroundColor": "#FFFFFF"
+    },
+    "retailPriceDollars": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "bold",
+      "fontSize": 50,
+      "fontLineHeight": 50
+    },
+    "retailPriceCents": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "bold",
+      "fontSize": 25,
+      "fontLineHeight": 30
+    },
+    "retailPriceMultipleDollars": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "bold",
+      "fontSize": 50,
+      "fontLineHeight": 50
+    },
+    "retailPriceMultipleCents": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "bold",
+      "fontSize": 25,
+      "fontLineHeight": 30
+    },
+    "retailPriceText": {
+      "fontColor": "",
+      "fontFamily": "",
+      "fontWeight": "",
+      "fontSize": 9,
+      "fontLineHeight": 7
+    },
+    "retailUnitPriceText": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "regular",
+      "fontSize": 9,
+      "fontLineHeight": 11
+    },
+    "retailUnitPriceSmall": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "regular",
+      "fontSize": 9,
+      "fontLineHeight": 11
+    },
+    "retailUnitPriceLargeDollars": {
+      "fontColor": "",
+      "fontFamily": "",
+      "fontWeight": "",
+      "fontSize": 40,
+      "fontLineHeight": 40
+    },
+    "retailUnitPriceLargeCents": {
+      "fontColor": "",
+      "fontFamily": "",
+      "fontWeight": "",
+      "fontSize": 20,
+      "fontLineHeight": 20
+    },
+    "retailUnitOfMeasureDisplay": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "regular",
+      "fontSize": 9,
+      "fontLineHeight": 11
+    },
+    "retailQualifier": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "regular",
+      "fontSize": 12,
+      "fontLineHeight": 12
+    },
+    "retailFooter": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "regular",
+      "fontSize": 9,
+      "fontLineHeight": 11
+    },
+    "retailBottomBar": {
+      "backgroundColor": "#F7A14C"
+    },
+    "promoBanner": {
+      "isEnabled": false,
+      "backgroundColor": ""
+    },
+    "promoBannerLargeText": {
+      "fontColor": "",
+      "fontFamily": "",
+      "fontWeight": "",
+      "fontSize": 20,
+      "fontLineHeight": 22
+    },
+    "promoBannerSmallText": {
+      "fontColor": "",
+      "fontFamily": "",
+      "fontWeight": "",
+      "fontSize": 9,
+      "fontLineHeight": 10
+    },
+    "promoQuantity": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "bold",
+      "fontSize": 25,
+      "fontLineHeight": 30
+    },
+    "promoQuantitySlash": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "bold",
+      "fontSize": 25,
+      "fontLineHeight": 30
+    },
+    "promoPrice": {
+      "backgroundColor": "#FFEF65"
+    },
+    "promoPriceDollars": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "bold",
+      "fontSize": 50,
+      "fontLineHeight": 50
+    },
+    "promoPriceCents": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "bold",
+      "fontSize": 25,
+      "fontLineHeight": 30
+    },
+    "promoPriceMultipleDollars": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "bold",
+      "fontSize": 50,
+      "fontLineHeight": 50
+    },
+    "promoPriceMultipleCents": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "bold",
+      "fontSize": 25,
+      "fontLineHeight": 30
+    },
+    "promoExpirationText": {
+      "isEnabled": true,
+      "alignment": "left",
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "regular",
+      "fontSize": 9,
+      "fontLineHeight": 11
+    },
+    "promoPriceText": {
+      "fontColor": "",
+      "fontFamily": "",
+      "fontWeight": "",
+      "fontSize": 9,
+      "fontLineHeight": 7
+    },
+    "promoUnitPriceText": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "regular",
+      "fontSize": 9,
+      "fontLineHeight": 11
+    },
+    "promoUnitPriceSmall": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "regular",
+      "fontSize": 9,
+      "fontLineHeight": 11
+    },
+    "promoUnitPriceLargeDollars": {
+      "fontColor": "",
+      "fontFamily": "",
+      "fontWeight": "",
+      "fontSize": 40,
+      "fontLineHeight": 40
+    },
+    "promoUnitPriceLargeCents": {
+      "fontColor": "",
+      "fontFamily": "",
+      "fontWeight": "",
+      "fontSize": 20,
+      "fontLineHeight": 20
+    },
+    "promoUnitOfMeasureDisplay": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "regular",
+      "fontSize": 9,
+      "fontLineHeight": 11
+    },
+    "promoDisplaySmall": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "bold",
+      "fontSize": 12,
+      "fontLineHeight": 14
+    },
+    "promoDisplayLarge": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "bold",
+      "fontSize": 26,
+      "fontLineHeight": 28
+    },
+    "promoQualifier": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "bold",
+      "fontSize": 12,
+      "fontLineHeight": 12
+    },
+    "promoQualifierSmall": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "bold",
+      "fontSize": 9,
+      "fontLineHeight": 10
+    },
+    "promoRetailReferenceText": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "regular",
+      "fontSize": 9,
+      "fontLineHeight": 11
+    },
+    "promoFooter": {
+      "fontColor": "#000000",
+      "fontFamily": "CSI Liberation Sans",
+      "fontWeight": "regular",
+      "fontSize": 9,
+      "fontLineHeight": 11
+    },
+    "promoBottomBar": {
+      "backgroundColor": "#FFEF65"
+    },
+    "promoType": {
+      "options": []
+    },
+    "productName": {
+      "isEnabled": false,
+      "version": "",
+      "fontColor": "",
+      "fontFamily": "",
+      "fontWeight": "",
+      "fontSize": 9,
+      "fontLineHeight": 10
+    },
+    "productUnits": {
+      "isEnabled": false,
+      "fontColor": "",
+      "fontFamily": "",
+      "fontWeight": "",
+      "fontSize": 9,
+      "fontLineHeight": 10
+    },
+    "productUnitOfMeasure": {
+      "fontColor": "",
+      "fontFamily": "",
+      "fontWeight": "",
+      "fontSize": 9,
+      "fontLineHeight": 10
+    },
+    "barcode": {
+      "isEnabled": false,
+      "location": "",
+      "height": 10
+    },
+    "providerType": "retailer"
+  },
+  "nutritionalBadgeConfig": {
+    "version": {
+      "versionID": "CSI-1",
+      "configName": "CSI Default"
+    },
+    "isEnabled": true,
+    "proximityDisplay": "all",
+    "proximityTransitionType": "fade",
+    "proximityTransitionInDuration": 500,
+    "proximityTransitionOutDuration": 500,
+    "height": 55,
+    "width": 55,
+    "dropShadow": "0 0 5px 0 rgba(0, 0, 0, 0.6)",
+    "transitionIsEnabled": true,
+    "transitionType": "fade",
+    "transitionInDuration": 0,
+    "transitionOutDuration": 500,
+    "state1Duration": 5000,
+    "state2Duration": 5000,
+    "facingAssigned": "first",
+    "caloriesColor": "#D54F27",
+    "totalFatColor": "#56344E",
+    "sugarColor": "#314963",
+    "sodiumColor": "#457F7A",
+    "providerType": "default"
+  },
+  "tag": {
+    "isEnabled": true,
+    "proximityDisplay": "all",
+    "proximityTransitionType": "fade",
+    "proximityTransitionInDuration": 0.25,
+    "proximityTransitionOutDuration": 0.25,
+    "size": "",
+    "position": "",
+    "offsetVertical": "",
+    "offsetHorizintal": "",
+    "transitionType": "fade",
+    "transitionInDuration": 0.25,
+    "transitionOutDuration": 0.25,
+    "screenLimit": "",
+    "facingAssigned": "first",
+    "providerType": "default"
+  },
+  "outOfStockConfig": {
+    "version": {
+      "versionID": "CSI-2",
+      "configName": "CSI Default Dimmed"
+    },
+    "isEnabled": true,
+    "proximityDisplay": "all",
+    "proximityTransitionType": "fade",
+    "proximityTransitionInDuration": 500,
+    "proximityTransitionOutDuration": 500,
+    "oosTag": {
+      "asset": "more_coming_soon_new",
+      "height": 70,
+      "width": 70,
+      "opacity": 85,
+      "dropShadow": "3px 3px 3px 0px rgba(0, 0, 0, 0.4)",
+      "positionHorizontal": "center",
+      "positionHorizontalOffset": 0,
+      "positionVertical": "bottom",
+      "positionVerticalOffset": -4
+    },
+    "productImage": {
+      "baseMaskColor": "#EEF4F8",
+      "oosOpacity": 45,
+      "oosScale": 90,
+      "oosScalePostion": "center"
+    },
+    "transitionType": "fade",
+    "transitionInDuration": 500,
+    "transitionOutDuration": 500,
+    "facingAssigned": "all",
+    "providerType": "retailer"
+  },
+  "store": {
+    "name": "CVS00590",
+    "streetaddress1": "1054 CASS AVENUE",
+    "streetaddress2": "",
+    "city": "WOONSOCKET",
+    "state": "RI",
+    "zipcode": "02895",
+    "latitude": "42.004676",
+    "longitude": "-71.479969",
+    "storehours": [
+      {
+        "day": "Mon",
+        "opentime": "07:00 AM",
+        "closetime": "10:00 PM"
+      },
+      {
+        "day": "Tue",
+        "opentime": "07:00 AM",
+        "closetime": "10:00 PM"
+      },
+      {
+        "day": "Wed",
+        "opentime": "07:00 AM",
+        "closetime": "10:00 PM"
+      },
+      {
+        "day": "Thu",
+        "opentime": "07:00 AM",
+        "closetime": "10:00 PM"
+      },
+      {
+        "day": "Fri",
+        "opentime": "07:00 AM",
+        "closetime": "10:00 PM"
+      },
+      {
+        "day": "Sat",
+        "opentime": "07:00 AM",
+        "closetime": "10:00 PM"
+      },
+      {
+        "day": "Sun",
+        "opentime": "07:00 AM",
+        "closetime": "10:00 PM"
+      }
+    ],
+    "holidayhours": null,
+    "timezone": "America/New_York",
+    "schedule": {
+      "Mon": {
+        "Off": [
+          "0400"
+        ],
+        "On": [
+          "0405"
+        ]
+      },
+      "Tue": {
+        "Off": [
+          "0400"
+        ],
+        "On": [
+          "0405"
+        ]
+      },
+      "Wed": {
+        "Off": [
+          "0400"
+        ],
+        "On": [
+          "0405"
+        ]
+      },
+      "Thu": {
+        "Off": [
+          "0400"
+        ],
+        "On": [
+          "0405"
+        ]
+      },
+      "Fri": {
+        "Off": [
+          "0400"
+        ],
+        "On": [
+          "0405"
+        ]
+      },
+      "Sat": {
+        "Off": [
+          "0400"
+        ],
+        "On": [
+          "0405"
+        ]
+      },
+      "Sun": {
+        "Off": [
+          "0400"
+        ],
+        "On": [
+          "0405"
+        ]
+      }
+    }
+  },
+  "allProductImages": [
+    "0044100114786_C1C1_STACKED.png",
+    "0044100103162_C1C1.png",
+    "0050000692255_C1C1.png",
+    "0050000560240_C1C1.png",
+    "0050000652860_C1C1.png",
+    "0818290016928_C1C1.png",
+    "0818290016935_C1C1.png",
+    "0813636020232_C1C1.png",
+    "0813636020225_C1C1.png",
+    "0044100103674_C1C1.png",
+    "0041271017885_C1C1.png",
+    "0041271027006_C1C1.png",
+    "0041271025644_C1C1.png",
+    "0041271009552_C1C1.png",
+    "0048500202746_C1C1.png",
+    "0048500202777_C1C1.png",
+    "0050200008214_C1C1.png",
+    "0025000100000_C1C1.png",
+    "0025000040801_C1C1.png",
+    "0025000044984_C1C1.png",
+    "0025000044908_C1C1.png",
+    "0815652004180_C2C1_Triplestack.png",
+    "0039222000031_C1C1.png",
+    "0044710019884_C1C1.png",
+    "0078354620113_C1C1.png",
+    "0044100560026_C1C1.png",
+    "0044100101960_C1C1.png"
+  ],
+  "products": [
+    {
+      "id": "607a45dc8389dc09d433979e",
+      "name": "HD COTT CHS SNGL",
+      "gtin": "04410011478",
+      "originalPrice": "1.79",
+      "unitPrice": "$ 1.79 per 1z",
+      "weight": "1",
+      "unit": "OZ",
+      "units": "1 OZ",
+      "unitOfMeasure": "1Z",
+      "unitpricevalue": "1.79",
+      "csbrand": "Hood",
+      "csparentbrand": "HP Hood",
+      "csproductcategory": "Dairy/Deli",
+      "labels": [],
+      "pricing": {
+        "offertype": "Single",
+        "details": {
+          "header": "",
+          "unitpriceval": "1.79",
+          "unitofmeasure": "per 1z",
+          "hdrmsg": "",
+          "disclaimer": "",
+          "price": "1.79"
+        }
+      },
+      "promotion": null,
+      "unitsUniv": "1 OZ",
+      "univupc": "0044100114786",
+      "univpricing": {
+        "details": {
+          "bannerlarge": "",
+          "bannersmall": "",
+          "quantity": "1",
+          "price": "1.79",
+          "pricemultiple": null,
+          "unitpricetext": "Unit Price",
+          "unitprice": null,
+          "unitofmeasure": "",
+          "unitofmeasuredisplay": "Per OZ",
+          "pricecurrencycode": "USD",
+          "qualifier": "",
+          "footer": "",
+          "retailpricetext": "retail price",
+          "pricetext": "retail price",
+          "unitpricesmall": "$ 1.79",
+          "unitpricelarge": null
+        }
+      },
+      "univpromotion": null,
+      "nutritionalInfo": {}
+    },
+    {
+      "id": "607a45dc8389dc09d433979f",
+      "name": "PT HD H&H",
+      "gtin": "04410010316",
+      "originalPrice": "2.29",
+      "unitPrice": "$ 2.29 per 1z",
+      "weight": "1",
+      "unit": "OZ",
+      "units": "1 OZ",
+      "unitOfMeasure": "1Z",
+      "unitpricevalue": "2.29",
+      "csbrand": "Hood",
+      "csparentbrand": "HP Hood",
+      "csproductcategory": "Milk/Creamer",
+      "labels": [],
+      "pricing": {
+        "offertype": "Single",
+        "details": {
+          "header": "",
+          "unitpriceval": "2.29",
+          "unitofmeasure": "per 1z",
+          "hdrmsg": "",
+          "disclaimer": "",
+          "price": "2.29"
+        }
+      },
+      "promotion": null,
+      "unitsUniv": "1 OZ",
+      "univupc": "0044100103162",
+      "univpricing": {
+        "details": {
+          "bannerlarge": "",
+          "bannersmall": "",
+          "quantity": "1",
+          "price": "2.39",
+          "pricemultiple": null,
+          "unitpricetext": "Unit Price",
+          "unitprice": null,
+          "unitofmeasure": "",
+          "unitofmeasuredisplay": "Per OZ",
+          "pricecurrencycode": "USD",
+          "qualifier": "",
+          "footer": "",
+          "retailpricetext": "retail price",
+          "pricetext": "retail price",
+          "unitpricesmall": "$ 2.39",
+          "unitpricelarge": null
+        }
+      },
+      "univpromotion": null,
+      "nutritionalInfo": {}
+    },
+    {
+      "id": "607a45dc8389dc09d43397a0",
+      "name": "COFFEEMATE FR VAN",
+      "gtin": "05000069225",
+      "originalPrice": "3.19",
+      "unitPrice": "20.00 ¢ per 16z",
+      "weight": "16",
+      "unit": "OZ",
+      "units": "16 OZ",
+      "unitOfMeasure": "16Z",
+      "unitpricevalue": "NaN",
+      "csbrand": "Coffee Mate",
+      "csparentbrand": "Nestle",
+      "csproductcategory": "Milk/Creamer",
+      "labels": [],
+      "pricing": {
+        "offertype": "Single",
+        "details": {
+          "header": "",
+          "unitpriceval": "0.20",
+          "unitofmeasure": "per 16z",
+          "hdrmsg": "",
+          "disclaimer": "",
+          "price": "3.19"
+        }
+      },
+      "promotion": null,
+      "unitsUniv": "16 OZ",
+      "univupc": "0050000692255",
+      "univpricing": {
+        "details": {
+          "bannerlarge": "",
+          "bannersmall": "",
+          "quantity": "1",
+          "price": "3.19",
+          "pricemultiple": null,
+          "unitpricetext": "Unit Price",
+          "unitprice": null,
+          "unitofmeasure": "",
+          "unitofmeasuredisplay": "Per OZ",
+          "pricecurrencycode": "USD",
+          "qualifier": "",
+          "footer": "",
+          "retailpricetext": "retail price",
+          "pricetext": "retail price",
+          "unitpricesmall": "19.9 ¢",
+          "unitpricelarge": null
+        }
+      },
+      "univpromotion": null,
+      "nutritionalInfo": {}
+    },
+    {
+      "id": "607a45dc8389dc09d43397a1",
+      "name": "COFFMTE HAZELNUT",
+      "gtin": "05000056024",
+      "originalPrice": "3.19",
+      "unitPrice": "20.00 ¢ per 16z",
+      "weight": "16",
+      "unit": "OZ",
+      "units": "16 OZ",
+      "unitOfMeasure": "16Z",
+      "unitpricevalue": "0.20",
+      "csbrand": "Coffee Mate",
+      "csparentbrand": "Nestle",
+      "csproductcategory": "Milk/Creamer",
+      "labels": [],
+      "pricing": {
+        "offertype": "Single",
+        "details": {
+          "header": "",
+          "unitpriceval": "0.2",
+          "unitofmeasure": "per 16z",
+          "hdrmsg": "",
+          "disclaimer": "",
+          "price": "3.19"
+        }
+      },
+      "promotion": null,
+      "unitsUniv": "16 OZ",
+      "univupc": "0050000560240",
+      "univpricing": {
+        "details": {
+          "bannerlarge": "",
+          "bannersmall": "",
+          "quantity": "1",
+          "price": "3.19",
+          "pricemultiple": null,
+          "unitpricetext": "Unit Price",
+          "unitprice": null,
+          "unitofmeasure": "",
+          "unitofmeasuredisplay": "Per OZ",
+          "pricecurrencycode": "USD",
+          "qualifier": "",
+          "footer": "",
+          "retailpricetext": "retail price",
+          "pricetext": "retail price",
+          "unitpricesmall": "19.9 ¢",
+          "unitpricelarge": null
+        }
+      },
+      "univpromotion": null,
+      "nutritionalInfo": {}
+    },
+    {
+      "id": "607a45dc8389dc09d43397a2",
+      "name": "CFE-MATE SWET CREM",
+      "gtin": "05000065286",
+      "originalPrice": "3.19",
+      "unitPrice": "20.00 ¢ per 16z",
+      "weight": "16",
+      "unit": "OZ",
+      "units": "16 OZ",
+      "unitOfMeasure": "16Z",
+      "unitpricevalue": "0.20",
+      "csbrand": "Coffee Mate",
+      "csparentbrand": "Nestle",
+      "csproductcategory": "Milk/Creamer",
+      "labels": [],
+      "pricing": {
+        "offertype": "Single",
+        "details": {
+          "header": "",
+          "unitpriceval": "0.2",
+          "unitofmeasure": "per 16z",
+          "hdrmsg": "",
+          "disclaimer": "",
+          "price": "3.19"
+        }
+      },
+      "promotion": null,
+      "unitsUniv": "16 OZ",
+      "univupc": "0050000652860",
+      "univpricing": {
+        "details": {
+          "bannerlarge": "",
+          "bannersmall": "",
+          "quantity": "1",
+          "price": "3.19",
+          "pricemultiple": null,
+          "unitpricetext": "Unit Price",
+          "unitprice": null,
+          "unitofmeasure": "",
+          "unitofmeasuredisplay": "Per OZ",
+          "pricecurrencycode": "USD",
+          "qualifier": "",
+          "footer": "",
+          "retailpricetext": "retail price",
+          "pricetext": "retail price",
+          "unitpricesmall": "19.9 ¢",
+          "unitpricelarge": null
+        }
+      },
+      "univpromotion": null,
+      "nutritionalInfo": {}
+    },
+    {
+      "id": "607a45dc8389dc09d43397a3",
+      "name": "CHOB CREAM UNSWT",
+      "gtin": "81829001692",
+      "originalPrice": "5.69",
+      "unitPrice": "24.00 ¢ per 24z",
+      "weight": "24",
+      "unit": "OZ",
+      "units": "24 OZ",
+      "unitOfMeasure": "24Z",
+      "unitpricevalue": "0.24",
+      "csbrand": "Chobani Creamer",
+      "csparentbrand": "Chobani Global Holdings",
+      "csproductcategory": "Milk/Creamer",
+      "labels": [],
+      "pricing": {
+        "offertype": "Single",
+        "details": {
+          "header": "",
+          "unitpriceval": "0.24",
+          "unitofmeasure": "per 24z",
+          "hdrmsg": "",
+          "disclaimer": "",
+          "price": "5.69"
+        }
+      },
+      "promotion": null,
+      "unitsUniv": "24 OZ",
+      "univupc": "0818290016928",
+      "univpricing": {
+        "details": {
+          "bannerlarge": "",
+          "bannersmall": "",
+          "quantity": "1",
+          "price": "5.69",
+          "pricemultiple": null,
+          "unitpricetext": "Unit Price",
+          "unitprice": null,
+          "unitofmeasure": "",
+          "unitofmeasuredisplay": "Per OZ",
+          "pricecurrencycode": "USD",
+          "qualifier": "",
+          "footer": "",
+          "retailpricetext": "retail price",
+          "pricetext": "retail price",
+          "unitpricesmall": "23.7 ¢",
+          "unitpricelarge": null
+        }
+      },
+      "univpromotion": null,
+      "nutritionalInfo": {}
+    },
+    {
+      "id": "607a45dc8389dc09d43397a4",
+      "name": "CHOB CREAM VAN",
+      "gtin": "81829001693",
+      "originalPrice": "5.69",
+      "unitPrice": "24.00 ¢ per 24z",
+      "weight": "24",
+      "unit": "OZ",
+      "units": "24 OZ",
+      "unitOfMeasure": "24Z",
+      "unitpricevalue": "0.24",
+      "csbrand": "Chobani Creamer",
+      "csparentbrand": "Chobani Global Holdings",
+      "csproductcategory": "Milk/Creamer",
+      "labels": [],
+      "pricing": {
+        "offertype": "Single",
+        "details": {
+          "header": "",
+          "unitpriceval": "0.24",
+          "unitofmeasure": "per 24z",
+          "hdrmsg": "",
+          "disclaimer": "",
+          "price": "5.69"
+        }
+      },
+      "promotion": null,
+      "unitsUniv": "24 OZ",
+      "univupc": "0818290016935",
+      "univpricing": {
+        "details": {
+          "bannerlarge": "",
+          "bannersmall": "",
+          "quantity": "1",
+          "price": "5.69",
+          "pricemultiple": null,
+          "unitpricetext": "Unit Price",
+          "unitprice": null,
+          "unitofmeasure": "",
+          "unitofmeasuredisplay": "Per OZ",
+          "pricecurrencycode": "USD",
+          "qualifier": "",
+          "footer": "",
+          "retailpricetext": "retail price",
+          "pricetext": "retail price",
+          "unitpricesmall": "23.7 ¢",
+          "unitpricelarge": null
+        }
+      },
+      "univpromotion": null,
+      "nutritionalInfo": {}
+    },
+    {
+      "id": "607a45dc8389dc09d43397a5",
+      "name": "BETTERHALF ORIG",
+      "gtin": "81363602023",
+      "originalPrice": "3.59",
+      "unitPrice": "21.00 ¢ per 16.9",
+      "weight": "16.9",
+      "unit": "OZ",
+      "units": "16.9 OZ",
+      "unitOfMeasure": "16.9",
+      "unitpricevalue": "0.21",
+      "csbrand": "Califia",
+      "csparentbrand": "Califia Farms",
+      "csproductcategory": "Milk/Creamer",
+      "labels": [],
+      "pricing": {
+        "offertype": "Single",
+        "details": {
+          "header": "",
+          "unitpriceval": "0.21",
+          "unitofmeasure": "per 16.9",
+          "hdrmsg": "",
+          "disclaimer": "",
+          "price": "3.59"
+        }
+      },
+      "promotion": null,
+      "unitsUniv": "16.9 OZ",
+      "univupc": "0813636020232",
+      "univpricing": {
+        "details": {
+          "bannerlarge": "",
+          "bannersmall": "",
+          "quantity": "1",
+          "price": "3.59",
+          "pricemultiple": null,
+          "unitpricetext": "Unit Price",
+          "unitprice": null,
+          "unitofmeasure": "",
+          "unitofmeasuredisplay": "Per OZ",
+          "pricecurrencycode": "USD",
+          "qualifier": "",
+          "footer": "",
+          "retailpricetext": "retail price",
+          "pricetext": "retail price",
+          "unitpricesmall": "21.2 ¢",
+          "unitpricelarge": null
+        }
+      },
+      "univpromotion": null,
+      "nutritionalInfo": {}
+    },
+    {
+      "id": "607a45dc8389dc09d43397a6",
+      "name": "BETTERHALF UNSW",
+      "gtin": "81363602022",
+      "originalPrice": "3.59",
+      "unitPrice": "21.00 ¢ per 16.9",
+      "weight": "16.9",
+      "unit": "OZ",
+      "units": "16.9 OZ",
+      "unitOfMeasure": "16.9",
+      "unitpricevalue": "0.21",
+      "csbrand": "Califia",
+      "csparentbrand": "Califia Farms",
+      "csproductcategory": "Milk/Creamer",
+      "labels": [],
+      "pricing": {
+        "offertype": "Single",
+        "details": {
+          "header": "",
+          "unitpriceval": "0.21",
+          "unitofmeasure": "per 16.9",
+          "hdrmsg": "",
+          "disclaimer": "",
+          "price": "3.59"
+        }
+      },
+      "promotion": null,
+      "unitsUniv": "16.9 OZ",
+      "univupc": "0813636020225",
+      "univpricing": {
+        "details": {
+          "bannerlarge": "",
+          "bannersmall": "",
+          "quantity": "1",
+          "price": "3.59",
+          "pricemultiple": null,
+          "unitpricetext": "Unit Price",
+          "unitprice": null,
+          "unitofmeasure": "",
+          "unitofmeasuredisplay": "Per OZ",
+          "pricecurrencycode": "USD",
+          "qualifier": "",
+          "footer": "",
+          "retailpricetext": "retail price",
+          "pricetext": "retail price",
+          "unitpricesmall": "21.2 ¢",
+          "unitpricelarge": null
+        }
+      },
+      "univpromotion": null,
+      "nutritionalInfo": {}
+    },
+    {
+      "id": "607a45dc8389dc09d43397a7",
+      "name": "QT HD H&H",
+      "gtin": "04410010367",
+      "originalPrice": "3.99",
+      "unitPrice": "$ 3.99 per 1z",
+      "weight": "1",
+      "unit": "OZ",
+      "units": "1 OZ",
+      "unitOfMeasure": "1Z",
+      "unitpricevalue": "3.99",
+      "csbrand": "Hood",
+      "csparentbrand": "HP Hood",
+      "csproductcategory": "Milk/Creamer",
+      "labels": [],
+      "pricing": {
+        "offertype": "Single",
+        "details": {
+          "header": "",
+          "unitpriceval": "3.99",
+          "unitofmeasure": "per 1z",
+          "hdrmsg": "",
+          "disclaimer": "",
+          "price": "3.99"
+        }
+      },
+      "promotion": null,
+      "unitsUniv": "1 OZ",
+      "univupc": "0044100103674",
+      "univpricing": {
+        "details": {
+          "bannerlarge": "",
+          "bannersmall": "",
+          "quantity": "1",
+          "price": "4.19",
+          "pricemultiple": null,
+          "unitpricetext": "Unit Price",
+          "unitprice": null,
+          "unitofmeasure": "",
+          "unitofmeasuredisplay": "Per OZ",
+          "pricecurrencycode": "USD",
+          "qualifier": "",
+          "footer": "",
+          "retailpricetext": "retail price",
+          "pricetext": "retail price",
+          "unitpricesmall": "$ 4.19",
+          "unitpricelarge": null
+        }
+      },
+      "univpromotion": null,
+      "nutritionalInfo": {}
+    },
+    {
+      "id": "607a45dc8389dc09d43397a8",
+      "name": "EXTRA EXTRA",
+      "gtin": "04127101788",
+      "originalPrice": "4.79",
+      "unitPrice": "15.00 ¢ per 32z",
+      "weight": "32",
+      "unit": "OZ",
+      "units": "32 OZ",
+      "unitOfMeasure": "32Z",
+      "unitpricevalue": "0.15",
+      "csbrand": "Dunkin Donuts",
+      "csparentbrand": "Inspire Brands",
+      "csproductcategory": "Milk/Creamer",
+      "labels": [],
+      "pricing": {
+        "offertype": "Single",
+        "details": {
+          "header": "",
+          "unitpriceval": "0.15",
+          "unitofmeasure": "per 32z",
+          "hdrmsg": "",
+          "disclaimer": "",
+          "price": "4.79"
+        }
+      },
+      "promotion": null,
+      "unitsUniv": "32 OZ",
+      "univupc": "0041271017885",
+      "univpricing": {
+        "details": {
+          "bannerlarge": "",
+          "bannersmall": "",
+          "quantity": "1",
+          "price": "4.79",
+          "pricemultiple": null,
+          "unitpricetext": "Unit Price",
+          "unitprice": null,
+          "unitofmeasure": "",
+          "unitofmeasuredisplay": "Per OZ",
+          "pricecurrencycode": "USD",
+          "qualifier": "",
+          "footer": "",
+          "retailpricetext": "retail price",
+          "pricetext": "retail price",
+          "unitpricesmall": "15 ¢",
+          "unitpricelarge": null
+        }
+      },
+      "univpromotion": null,
+      "nutritionalInfo": {
+        "sodium": {
+          "amount": "5",
+          "nutrient_unit": "mg"
+        },
+        "sugar": {
+          "amount": "5",
+          "nutrient_unit": "g"
+        },
+        "fat": {
+          "amount": "1.5",
+          "nutrient_unit": "g"
+        },
+        "calories": "35",
+        "provider": "Syndigo"
+      }
+    },
+    {
+      "id": "607a45dc8389dc09d43397a9",
+      "name": "DD VANILLA",
+      "gtin": "04127102700",
+      "originalPrice": "4.79",
+      "unitPrice": "15.00 ¢ per 32z",
+      "weight": "32",
+      "unit": "OZ",
+      "units": "32 OZ",
+      "unitOfMeasure": "32Z",
+      "unitpricevalue": "0.15",
+      "csbrand": "Dunkin Donuts",
+      "csparentbrand": "Inspire Brands",
+      "csproductcategory": "Milk/Creamer",
+      "labels": [],
+      "pricing": {
+        "offertype": "Single",
+        "details": {
+          "header": "",
+          "unitpriceval": "0.15",
+          "unitofmeasure": "per 32z",
+          "hdrmsg": "",
+          "disclaimer": "",
+          "price": "4.79"
+        }
+      },
+      "promotion": null,
+      "unitsUniv": "32 OZ",
+      "univupc": "0041271027006",
+      "univpricing": {
+        "details": {
+          "bannerlarge": "",
+          "bannersmall": "",
+          "quantity": "1",
+          "price": "4.79",
+          "pricemultiple": null,
+          "unitpricetext": "Unit Price",
+          "unitprice": null,
+          "unitofmeasure": "",
+          "unitofmeasuredisplay": "Per OZ",
+          "pricecurrencycode": "USD",
+          "qualifier": "",
+          "footer": "",
+          "retailpricetext": "retail price",
+          "pricetext": "retail price",
+          "unitpricesmall": "15 ¢",
+          "unitpricelarge": null
+        }
+      },
+      "univpromotion": null,
+      "nutritionalInfo": {
+        "sodium": {
+          "amount": "0",
+          "nutrient_unit": "mg"
+        },
+        "sugar": {
+          "amount": "6",
+          "nutrient_unit": "g"
+        },
+        "fat": {
+          "amount": "1",
+          "nutrient_unit": "g"
+        },
+        "calories": "35",
+        "provider": "Syndigo"
+      }
+    },
+    {
+      "id": "607a45dc8389dc09d43397aa",
+      "name": "INTRNATIONAL DLGHT",
+      "gtin": "04127102564",
+      "originalPrice": "5.49",
+      "unitPrice": "17.20 ¢ per 32z",
+      "weight": "32",
+      "unit": "OZ",
+      "units": "32 OZ",
+      "unitOfMeasure": "32Z",
+      "unitpricevalue": "NaN",
+      "csbrand": "International Delight",
+      "csparentbrand": "Dean Foods",
+      "csproductcategory": "Milk/Creamer",
+      "labels": [],
+      "pricing": {
+        "offertype": "Single",
+        "details": {
+          "header": "",
+          "unitpriceval": "0.17",
+          "unitofmeasure": "per 32z",
+          "hdrmsg": "",
+          "disclaimer": "",
+          "price": "5.49"
+        }
+      },
+      "promotion": null,
+      "unitsUniv": "32 OZ",
+      "univupc": "0041271025644",
+      "univpricing": {
+        "details": {
+          "bannerlarge": "",
+          "bannersmall": "",
+          "quantity": "1",
+          "price": "5.49",
+          "pricemultiple": "",
+          "unitpricetext": "Unit Price",
+          "unitprice": "",
+          "unitofmeasure": "",
+          "unitofmeasuredisplay": "Per OZ",
+          "pricecurrencycode": "USD",
+          "qualifier": "",
+          "footer": "",
+          "retailpricetext": "retail price",
+          "pricetext": "retail price",
+          "unitpricesmall": "17.2 ¢",
+          "unitpricelarge": ""
+        }
+      },
+      "univpromotion": null,
+      "nutritionalInfo": {}
+    },
+    {
+      "id": "607a45dc8389dc09d43397ab",
+      "name": "INT DEL CAR MACH",
+      "gtin": "04127100955",
+      "originalPrice": "5.49",
+      "unitPrice": "17.20 ¢ per 32z",
+      "weight": "32",
+      "unit": "OZ",
+      "units": "32 OZ",
+      "unitOfMeasure": "32Z",
+      "unitpricevalue": "NaN",
+      "csbrand": "International Delight",
+      "csparentbrand": "Dean Foods",
+      "csproductcategory": "Milk/Creamer",
+      "labels": [],
+      "pricing": {
+        "offertype": "Single",
+        "details": {
+          "header": "",
+          "unitpriceval": "0.17",
+          "unitofmeasure": "per 32z",
+          "hdrmsg": "",
+          "disclaimer": "",
+          "price": "5.49"
+        }
+      },
+      "promotion": null,
+      "unitsUniv": "32 OZ",
+      "univupc": "0041271009552",
+      "univpricing": {
+        "details": {
+          "bannerlarge": "",
+          "bannersmall": "",
+          "quantity": "1",
+          "price": "5.49",
+          "pricemultiple": "",
+          "unitpricetext": "Unit Price",
+          "unitprice": "",
+          "unitofmeasure": "",
+          "unitofmeasuredisplay": "Per OZ",
+          "pricecurrencycode": "USD",
+          "qualifier": "",
+          "footer": "",
+          "retailpricetext": "retail price",
+          "pricetext": "retail price",
+          "unitpricesmall": "17.2 ¢",
+          "unitpricelarge": ""
+        }
+      },
+      "univpromotion": null,
+      "nutritionalInfo": {
+        "sodium": {
+          "amount": "10",
+          "nutrient_unit": "mg"
+        },
+        "sugar": {
+          "amount": "5",
+          "nutrient_unit": "g"
+        },
+        "fat": {
+          "amount": "1.5",
+          "nutrient_unit": "g"
+        },
+        "calories": "35",
+        "provider": "Syndigo"
+      }
+    },
+    {
+      "id": "607a45dc8389dc09d43397ac",
+      "name": "TROP PURE PREM OJ",
+      "gtin": "04850020274",
+      "originalPrice": "5.19",
+      "unitPrice": "10.00 ¢ per 52z",
+      "weight": "52",
+      "unit": "OZ",
+      "units": "52 OZ",
+      "unitOfMeasure": "52Z",
+      "unitpricevalue": "0.10",
+      "csbrand": "Tropicana",
+      "csparentbrand": "PepsiCo",
+      "csproductcategory": "Juice",
+      "labels": [],
+      "pricing": {
+        "offertype": "Single",
+        "details": {
+          "header": "",
+          "unitpriceval": "0.1",
+          "unitofmeasure": "per 52z",
+          "hdrmsg": "",
+          "disclaimer": "",
+          "price": "5.19"
+        }
+      },
+      "promotion": null,
+      "unitsUniv": "52 OZ",
+      "univupc": "0048500202746",
+      "univpricing": {
+        "details": {
+          "bannerlarge": "",
+          "bannersmall": "",
+          "quantity": "1",
+          "price": "5.29",
+          "pricemultiple": null,
+          "unitpricetext": "Unit Price",
+          "unitprice": null,
+          "unitofmeasure": "",
+          "unitofmeasuredisplay": "Per OZ",
+          "pricecurrencycode": "USD",
+          "qualifier": "",
+          "footer": "",
+          "retailpricetext": "retail price",
+          "pricetext": "retail price",
+          "unitpricesmall": "10.2 ¢ ",
+          "unitpricelarge": null
+        }
+      },
+      "univpromotion": null,
+      "nutritionalInfo": {
+        "sodium": {
+          "amount": "0",
+          "nutrient_unit": "mg"
+        },
+        "sugar": {
+          "amount": "22",
+          "nutrient_unit": "g"
+        },
+        "fat": {
+          "amount": "0",
+          "nutrient_unit": "g"
+        },
+        "calories": "110",
+        "provider": "Syndigo"
+      }
+    },
+    {
+      "id": "607a45dc8389dc09d43397ad",
+      "name": "TROP OJ W/ CALCIUM",
+      "gtin": "04850020277",
+      "originalPrice": "5.19",
+      "unitPrice": "10.00 ¢ per 52z",
+      "weight": "52",
+      "unit": "OZ",
+      "units": "52 OZ",
+      "unitOfMeasure": "52Z",
+      "unitpricevalue": "0.10",
+      "csbrand": "Tropicana",
+      "csparentbrand": "PepsiCo",
+      "csproductcategory": "Juice",
+      "labels": [],
+      "pricing": {
+        "offertype": "Single",
+        "details": {
+          "header": "",
+          "unitpriceval": "0.1",
+          "unitofmeasure": "per 52z",
+          "hdrmsg": "",
+          "disclaimer": "",
+          "price": "5.19"
+        }
+      },
+      "promotion": null,
+      "unitsUniv": "52 OZ",
+      "univupc": "0048500202777",
+      "univpricing": {
+        "details": {
+          "bannerlarge": "",
+          "bannersmall": "",
+          "quantity": "1",
+          "price": "5.29",
+          "pricemultiple": null,
+          "unitpricetext": "Unit Price",
+          "unitprice": null,
+          "unitofmeasure": "",
+          "unitofmeasuredisplay": "Per OZ",
+          "pricecurrencycode": "USD",
+          "qualifier": "",
+          "footer": "",
+          "retailpricetext": "retail price",
+          "pricetext": "retail price",
+          "unitpricesmall": "10.2 ¢ ",
+          "unitpricelarge": null
+        }
+      },
+      "univpromotion": null,
+      "nutritionalInfo": {}
+    },
+    {
+      "id": "607a45dc8389dc09d43397ae",
+      "name": "TANGY ORIG SUNNYD",
+      "gtin": "05020000821",
+      "originalPrice": "3.29",
+      "unitPrice": "5.00 ¢ per 64z",
+      "weight": "64",
+      "unit": "OZ",
+      "units": "64 OZ",
+      "unitOfMeasure": "64Z",
+      "unitpricevalue": "0.05",
+      "csbrand": "Sunny Delight",
+      "csparentbrand": "Harvest Hill Beverage",
+      "csproductcategory": "Juice",
+      "labels": [],
+      "pricing": {
+        "offertype": "Single",
+        "details": {
+          "header": "",
+          "unitpriceval": "0.05",
+          "unitofmeasure": "per 64z",
+          "hdrmsg": "",
+          "disclaimer": "",
+          "price": "3.29"
+        }
+      },
+      "promotion": null,
+      "unitsUniv": "64 OZ",
+      "univupc": "0050200008214",
+      "univpricing": {
+        "details": {
+          "bannerlarge": "",
+          "bannersmall": "",
+          "quantity": "1",
+          "price": "3.29",
+          "pricemultiple": null,
+          "unitpricetext": "Unit Price",
+          "unitprice": null,
+          "unitofmeasure": "",
+          "unitofmeasuredisplay": "Per OZ",
+          "pricecurrencycode": "USD",
+          "qualifier": "",
+          "footer": "",
+          "retailpricetext": "retail price",
+          "pricetext": "retail price",
+          "unitpricesmall": "5.1 ¢",
+          "unitpricelarge": null
+        }
+      },
+      "univpromotion": null,
+      "nutritionalInfo": {}
+    },
+    {
+      "id": "607a45dc8389dc09d43397af",
+      "name": "SIMPLY ORNGE JUICE",
+      "gtin": "02500010000",
+      "originalPrice": "4.09",
+      "unitPrice": "8.00 ¢ per 52z",
+      "weight": "52",
+      "unit": "OZ",
+      "units": "52 OZ",
+      "unitOfMeasure": "52Z",
+      "unitpricevalue": "0.08",
+      "csbrand": "Simply",
+      "csparentbrand": "Coca Cola Company",
+      "csproductcategory": "Juice",
+      "labels": [],
+      "pricing": {
+        "offertype": "Single",
+        "details": {
+          "header": "",
+          "unitpriceval": "0.08",
+          "unitofmeasure": "per 52z",
+          "hdrmsg": "",
+          "disclaimer": "",
+          "price": "4.09"
+        }
+      },
+      "promotion": null,
+      "unitsUniv": "52 OZ",
+      "univupc": "0025000100000",
+      "univpricing": {
+        "details": {
+          "bannerlarge": "",
+          "bannersmall": "",
+          "quantity": "1",
+          "price": "4.09",
+          "pricemultiple": null,
+          "unitpricetext": "Unit Price",
+          "unitprice": null,
+          "unitofmeasure": "",
+          "unitofmeasuredisplay": "Per OZ",
+          "pricecurrencycode": "USD",
+          "qualifier": "",
+          "footer": "",
+          "retailpricetext": "retail price",
+          "pricetext": "retail price",
+          "unitpricesmall": "7.9 ¢",
+          "unitpricelarge": null
+        }
+      },
+      "univpromotion": null,
+      "nutritionalInfo": {
+        "sodium": {
+          "amount": "0",
+          "nutrient_unit": "mg"
+        },
+        "sugar": {
+          "amount": "23",
+          "nutrient_unit": "g"
+        },
+        "fat": {
+          "amount": "0",
+          "nutrient_unit": "g"
+        },
+        "calories": "110",
+        "provider": "Syndigo"
+      }
+    },
+    {
+      "id": "607a45dc8389dc09d43397b0",
+      "name": "SIMPLY ORANGE MANG",
+      "gtin": "02500004080",
+      "originalPrice": "4.09",
+      "unitPrice": "8.00 ¢ per 52z",
+      "weight": "52",
+      "unit": "OZ",
+      "units": "52 OZ",
+      "unitOfMeasure": "52Z",
+      "unitpricevalue": "0.08",
+      "csbrand": "Simply",
+      "csparentbrand": "Coca Cola Company",
+      "csproductcategory": "Juice",
+      "labels": [],
+      "pricing": {
+        "offertype": "Single",
+        "details": {
+          "header": "",
+          "unitpriceval": "0.08",
+          "unitofmeasure": "per 52z",
+          "hdrmsg": "",
+          "disclaimer": "",
+          "price": "4.09"
+        }
+      },
+      "promotion": null,
+      "unitsUniv": "52 OZ",
+      "univupc": "0025000040801",
+      "univpricing": {
+        "details": {
+          "bannerlarge": "",
+          "bannersmall": "",
+          "quantity": "1",
+          "price": "4.09",
+          "pricemultiple": null,
+          "unitpricetext": "Unit Price",
+          "unitprice": null,
+          "unitofmeasure": "",
+          "unitofmeasuredisplay": "Per OZ",
+          "pricecurrencycode": "USD",
+          "qualifier": "",
+          "footer": "",
+          "retailpricetext": "retail price",
+          "pricetext": "retail price",
+          "unitpricesmall": "7.9 ¢",
+          "unitpricelarge": null
+        }
+      },
+      "univpromotion": null,
+      "nutritionalInfo": {}
+    },
+    {
+      "id": "607a45dc8389dc09d43397b1",
+      "name": "SIMPLY LEMONADE",
+      "gtin": "02500004498",
+      "originalPrice": "4.09",
+      "unitPrice": "8.00 ¢ per 52z",
+      "weight": "52",
+      "unit": "OZ",
+      "units": "52 OZ",
+      "unitOfMeasure": "52Z",
+      "unitpricevalue": "0.08",
+      "csbrand": "Simply",
+      "csparentbrand": "Coca Cola Company",
+      "csproductcategory": "Juice",
+      "labels": [],
+      "pricing": {
+        "offertype": "Single",
+        "details": {
+          "header": "",
+          "unitpriceval": "0.08",
+          "unitofmeasure": "per 52z",
+          "hdrmsg": "",
+          "disclaimer": "",
+          "price": "4.09"
+        }
+      },
+      "promotion": null,
+      "unitsUniv": "52 OZ",
+      "univupc": "0025000044984",
+      "univpricing": {
+        "details": {
+          "bannerlarge": "",
+          "bannersmall": "",
+          "quantity": "1",
+          "price": "4.09",
+          "pricemultiple": null,
+          "unitpricetext": "Unit Price",
+          "unitprice": null,
+          "unitofmeasure": "",
+          "unitofmeasuredisplay": "Per OZ",
+          "pricecurrencycode": "USD",
+          "qualifier": "",
+          "footer": "",
+          "retailpricetext": "retail price",
+          "pricetext": "retail price",
+          "unitpricesmall": "7.9 ¢",
+          "unitpricelarge": null
+        }
+      },
+      "univpromotion": null,
+      "nutritionalInfo": {
+        "sodium": {
+          "amount": "15",
+          "nutrient_unit": "mg"
+        },
+        "sugar": {
+          "amount": "28",
+          "nutrient_unit": "g"
+        },
+        "fat": {
+          "amount": "0",
+          "nutrient_unit": "g"
+        },
+        "calories": "120",
+        "provider": "Syndigo"
+      }
+    },
+    {
+      "id": "607a45dc8389dc09d43397b2",
+      "name": "SIMPLY LMNADE RSPB",
+      "gtin": "02500004490",
+      "originalPrice": "4.09",
+      "unitPrice": "8.00 ¢ per 52z",
+      "weight": "52",
+      "unit": "OZ",
+      "units": "52 OZ",
+      "unitOfMeasure": "52Z",
+      "unitpricevalue": "0.08",
+      "csbrand": "Simply",
+      "csparentbrand": "Coca Cola Company",
+      "csproductcategory": "Juice",
+      "labels": [],
+      "pricing": {
+        "offertype": "Single",
+        "details": {
+          "header": "",
+          "unitpriceval": "0.08",
+          "unitofmeasure": "per 52z",
+          "hdrmsg": "",
+          "disclaimer": "",
+          "price": "4.09"
+        }
+      },
+      "promotion": null,
+      "unitsUniv": "52 OZ",
+      "univupc": "0025000044908",
+      "univpricing": {
+        "details": {
+          "bannerlarge": "",
+          "bannersmall": "",
+          "quantity": "1",
+          "price": "4.09",
+          "pricemultiple": null,
+          "unitpricetext": "Unit Price",
+          "unitprice": null,
+          "unitofmeasure": "",
+          "unitofmeasuredisplay": "Per OZ",
+          "pricecurrencycode": "USD",
+          "qualifier": "",
+          "footer": "",
+          "retailpricetext": "retail price",
+          "pricetext": "retail price",
+          "unitpricesmall": "7.9 ¢",
+          "unitpricelarge": null
+        }
+      },
+      "univpromotion": null,
+      "nutritionalInfo": {
+        "sodium": {
+          "amount": "15",
+          "nutrient_unit": "mg"
+        },
+        "sugar": {
+          "amount": "26",
+          "nutrient_unit": "g"
+        },
+        "fat": {
+          "amount": "0",
+          "nutrient_unit": "g"
+        },
+        "calories": "110",
+        "provider": "Syndigo"
+      }
+    },
+    {
+      "id": "607a45dc8389dc09d43397b3",
+      "name": "NELLIE FR EGGS",
+      "gtin": "81565200418",
+      "originalPrice": "4.99",
+      "unitPrice": "42.00 ¢ per doz",
+      "weight": "12",
+      "unit": "CT",
+      "units": "12 CT",
+      "unitOfMeasure": "DOZ",
+      "unitpricevalue": "0.42",
+      "csbrand": "Nellies",
+      "csparentbrand": "Gerrys Organics",
+      "csproductcategory": "Dairy/Deli",
+      "labels": [],
+      "pricing": {
+        "offertype": "Single",
+        "details": {
+          "header": "",
+          "unitpriceval": "0.42",
+          "unitofmeasure": "per doz",
+          "hdrmsg": "",
+          "disclaimer": "",
+          "price": "4.99"
+        }
+      },
+      "promotion": null,
+      "unitsUniv": "12 CT",
+      "univupc": "0815652004180",
+      "univpricing": {
+        "details": {
+          "bannerlarge": "",
+          "bannersmall": "",
+          "quantity": "1",
+          "price": "4.99",
+          "pricemultiple": null,
+          "unitpricetext": "Unit Price",
+          "unitprice": null,
+          "unitofmeasure": "",
+          "unitofmeasuredisplay": "Per Each",
+          "pricecurrencycode": "USD",
+          "qualifier": "",
+          "footer": "",
+          "retailpricetext": "retail price",
+          "pricetext": "retail price",
+          "unitpricesmall": "41.6 ¢",
+          "unitpricelarge": null
+        }
+      },
+      "univpromotion": null,
+      "nutritionalInfo": {}
+    },
+    {
+      "id": "607a45dc8389dc09d43397b4",
+      "name": "MITLY LG GRD A EGG",
+      "gtin": "03922200003",
+      "originalPrice": "3.79",
+      "unitPrice": "31.60 ¢ per 1dz",
+      "weight": "12",
+      "unit": "CT",
+      "units": "12 CT",
+      "unitOfMeasure": "1DZ",
+      "unitpricevalue": "NaN",
+      "csbrand": "Eggs",
+      "csparentbrand": "Eggs",
+      "csproductcategory": "Dairy/Deli",
+      "labels": [],
+      "pricing": {
+        "offertype": "Single",
+        "details": {
+          "header": "",
+          "unitpriceval": "0.32",
+          "unitofmeasure": "per 1dz",
+          "hdrmsg": "",
+          "disclaimer": "",
+          "price": "3.79"
+        }
+      },
+      "promotion": null,
+      "unitsUniv": "12 CT",
+      "univupc": "0039222000031",
+      "univpricing": {
+        "details": {
+          "bannerlarge": "",
+          "bannersmall": "",
+          "quantity": "1",
+          "price": "3.79",
+          "pricemultiple": "",
+          "unitpricetext": "Unit Price",
+          "unitprice": "",
+          "unitofmeasure": "",
+          "unitofmeasuredisplay": "Per Each",
+          "pricecurrencycode": "USD",
+          "qualifier": "",
+          "footer": "",
+          "retailpricetext": "retail price",
+          "pricetext": "retail price",
+          "unitpricesmall": "31.6 ¢",
+          "unitpricelarge": ""
+        }
+      },
+      "univpromotion": "",
+      "nutritionalInfo": {}
+    },
+    {
+      "id": "607a45dc8389dc09d43397b5",
+      "name": "OM HW SMOKE BACON",
+      "gtin": "04471001988",
+      "originalPrice": "9.29",
+      "unitPrice": "58.10 ¢ per 16z",
+      "weight": "16",
+      "unit": "OZ",
+      "units": "16 OZ",
+      "unitOfMeasure": "16Z",
+      "unitpricevalue": "NaN",
+      "csbrand": "Oscar Mayer",
+      "csparentbrand": "Kraft Heinz Company",
+      "csproductcategory": "Dairy/Deli",
+      "labels": [],
+      "pricing": {
+        "offertype": "Single",
+        "details": {
+          "header": "",
+          "unitpriceval": "0.58",
+          "unitofmeasure": "per 16z",
+          "hdrmsg": "",
+          "disclaimer": "",
+          "price": "9.29"
+        }
+      },
+      "promotion": null,
+      "unitsUniv": "16 OZ",
+      "univupc": "0044710019884",
+      "univpricing": {
+        "details": {
+          "bannerlarge": "",
+          "bannersmall": "",
+          "quantity": "1",
+          "price": "9.29",
+          "pricemultiple": "",
+          "unitpricetext": "Unit Price",
+          "unitprice": "",
+          "unitofmeasure": "",
+          "unitofmeasuredisplay": "Per OZ",
+          "pricecurrencycode": "USD",
+          "qualifier": "",
+          "footer": "",
+          "retailpricetext": "retail price",
+          "pricetext": "retail price",
+          "unitpricesmall": "58.1 ¢",
+          "unitpricelarge": ""
+        }
+      },
+      "univpromotion": "",
+      "nutritionalInfo": {}
+    },
+    {
+      "id": "607a45dc8389dc09d43397b6",
+      "name": "CABOT BUTTER QTRS",
+      "gtin": "07835462011",
+      "originalPrice": "5.29",
+      "unitPrice": "33.00 ¢ per 1lb",
+      "weight": "1",
+      "unit": "LB",
+      "units": "1 LB",
+      "unitOfMeasure": "1LB",
+      "unitpricevalue": "0.33",
+      "csbrand": "Cabot",
+      "csparentbrand": "Agri-Mark Cooperative",
+      "csproductcategory": "Dairy/Deli",
+      "labels": [],
+      "pricing": {
+        "offertype": "Single",
+        "details": {
+          "header": "",
+          "unitpriceval": "0.33",
+          "unitofmeasure": "per 1lb",
+          "hdrmsg": "",
+          "disclaimer": "",
+          "price": "5.29"
+        }
+      },
+      "promotion": null,
+      "unitsUniv": "1 LB",
+      "univupc": "0078354620113",
+      "univpricing": {
+        "details": {
+          "bannerlarge": "",
+          "bannersmall": "",
+          "quantity": "1",
+          "price": "5.29",
+          "pricemultiple": null,
+          "unitpricetext": "Unit Price",
+          "unitprice": null,
+          "unitofmeasure": "",
+          "unitofmeasuredisplay": "Per OZ",
+          "pricecurrencycode": "USD",
+          "qualifier": "",
+          "footer": "",
+          "retailpricetext": "retail price",
+          "pricetext": "retail price",
+          "unitpricesmall": "33.1 ¢",
+          "unitpricelarge": null
+        }
+      },
+      "univpromotion": null,
+      "nutritionalInfo": {}
+    },
+    {
+      "id": "607a45dc8389dc09d43397b7",
+      "name": "HOOD WHIPPED CREAM",
+      "gtin": "04410056002",
+      "originalPrice": "3.09",
+      "unitPrice": "44.00 ¢ per 7z",
+      "weight": "7",
+      "unit": "OZ",
+      "units": "7 OZ",
+      "unitOfMeasure": "7Z",
+      "unitpricevalue": "0.44",
+      "csbrand": "Hood",
+      "csparentbrand": "HP Hood",
+      "csproductcategory": "Milk/Creamer",
+      "labels": [],
+      "pricing": {
+        "offertype": "Single",
+        "details": {
+          "header": "",
+          "unitpriceval": "0.44",
+          "unitofmeasure": "per 7z",
+          "hdrmsg": "",
+          "disclaimer": "",
+          "price": "3.09"
+        }
+      },
+      "promotion": null,
+      "unitsUniv": "7 OZ",
+      "univupc": "0044100560026",
+      "univpricing": {
+        "details": {
+          "bannerlarge": "",
+          "bannersmall": "",
+          "quantity": "1",
+          "price": "3.09",
+          "pricemultiple": null,
+          "unitpricetext": "Unit Price",
+          "unitprice": null,
+          "unitofmeasure": "",
+          "unitofmeasuredisplay": "Per OZ",
+          "pricecurrencycode": "USD",
+          "qualifier": "",
+          "footer": "",
+          "retailpricetext": "retail price",
+          "pricetext": "retail price",
+          "unitpricesmall": "44.1 ¢",
+          "unitpricelarge": null
+        }
+      },
+      "univpromotion": null,
+      "nutritionalInfo": {}
+    },
+    {
+      "id": "607a45dc8389dc09d43397b8",
+      "name": "HOOD SOUR CREAM",
+      "gtin": "04410010196",
+      "originalPrice": "3.49",
+      "unitPrice": "22.00 ¢ per 16z",
+      "weight": "16",
+      "unit": "OZ",
+      "units": "16 OZ",
+      "unitOfMeasure": "16Z",
+      "unitpricevalue": "0.22",
+      "csbrand": "Hood",
+      "csparentbrand": "HP Hood",
+      "csproductcategory": "Dairy/Deli",
+      "labels": [],
+      "pricing": {
+        "offertype": "Single",
+        "details": {
+          "header": "",
+          "unitpriceval": "0.22",
+          "unitofmeasure": "per 16z",
+          "hdrmsg": "",
+          "disclaimer": "",
+          "price": "3.49"
+        }
+      },
+      "promotion": null,
+      "unitsUniv": "16 OZ",
+      "univupc": "0044100101960",
+      "univpricing": {
+        "details": {
+          "bannerlarge": "",
+          "bannersmall": "",
+          "quantity": "1",
+          "price": "3.69",
+          "pricemultiple": null,
+          "unitpricetext": "Unit Price",
+          "unitprice": null,
+          "unitofmeasure": "",
+          "unitofmeasuredisplay": "Per OZ",
+          "pricecurrencycode": "USD",
+          "qualifier": "",
+          "footer": "",
+          "retailpricetext": "retail price",
+          "pricetext": "retail price",
+          "unitpricesmall": "23.1 ¢",
+          "unitpricelarge": null
+        }
+      },
+      "univpromotion": null,
+      "nutritionalInfo": {}
+    }
+  ],
+  "metadata": {
+    "middleBanner": {
+      "offsetY": "1130px",
+      "height": "90px"
+    },
+    "shelves": [
+      {
+        "slots": [
+          {
+            "prodId": "607a45dc8389dc09d433979e",
+            "imageName": "0044100114786_C1C1_STACKED.png",
+            "imageHeight": "295px",
+            "imageWidth": "224px",
+            "displayAd": "607a45dc8389dc09d433979e",
+            "duplicate": false,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d433979f",
+            "imageName": "0044100103162_C1C1.png",
+            "imageHeight": "287px",
+            "imageWidth": "152px",
+            "displayAd": "607a45dc8389dc09d433979f",
+            "duplicate": false,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397a0",
+            "imageName": "0050000692255_C1C1.png",
+            "imageHeight": "441px",
+            "imageWidth": "161px",
+            "duplicate": false,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397a1",
+            "imageName": "0050000560240_C1C1.png",
+            "imageHeight": "441px",
+            "imageWidth": "161px",
+            "duplicate": false,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397a2",
+            "imageName": "0050000652860_C1C1.png",
+            "imageHeight": "441px",
+            "imageWidth": "161px",
+            "displayAd": "607a45dc8389dc09d43397a2",
+            "duplicate": false,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397a3",
+            "imageName": "0818290016928_C1C1.png",
+            "imageHeight": "462px",
+            "imageWidth": "162px",
+            "duplicate": false,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397a4",
+            "imageName": "0818290016935_C1C1.png",
+            "imageHeight": "462px",
+            "imageWidth": "162px",
+            "duplicate": false,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397a5",
+            "imageName": "0813636020232_C1C1.png",
+            "imageHeight": "350px",
+            "imageWidth": "197px",
+            "duplicate": false,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397a6",
+            "imageName": "0813636020225_C1C1.png",
+            "imageHeight": "350px",
+            "imageWidth": "197px",
+            "duplicate": false,
+            "adImageName": ""
+          }
+        ],
+        "height": "400px"
+      },
+      {
+        "slots": [
+          {
+            "prodId": "607a45dc8389dc09d43397a7",
+            "imageName": "0044100103674_C1C1.png",
+            "imageHeight": "504px",
+            "imageWidth": "176px",
+            "duplicate": false,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397a8",
+            "imageName": "0041271017885_C1C1.png",
+            "imageHeight": "592px",
+            "imageWidth": "207px",
+            "duplicate": false,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397a8",
+            "imageName": "0041271017885_C1C1.png",
+            "imageHeight": "592px",
+            "imageWidth": "207px",
+            "duplicate": true,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397a9",
+            "imageName": "0041271027006_C1C1.png",
+            "imageHeight": "592px",
+            "imageWidth": "207px",
+            "duplicate": false,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397a9",
+            "imageName": "0041271027006_C1C1.png",
+            "imageHeight": "592px",
+            "imageWidth": "207px",
+            "duplicate": true,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397aa",
+            "imageName": "0041271025644_C1C1.png",
+            "imageHeight": "582px",
+            "imageWidth": "207px",
+            "duplicate": false,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397ab",
+            "imageName": "0041271009552_C1C1.png",
+            "imageHeight": "592px",
+            "imageWidth": "207px",
+            "duplicate": false,
+            "adImageName": ""
+          }
+        ],
+        "height": "400px"
+      },
+      {
+        "slots": [
+          {
+            "prodId": "607a45dc8389dc09d43397ac",
+            "imageName": "0048500202746_C1C1.png",
+            "imageHeight": "600px",
+            "imageWidth": "253px",
+            "duplicate": false,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397ac",
+            "imageName": "0048500202746_C1C1.png",
+            "imageHeight": "600px",
+            "imageWidth": "253px",
+            "duplicate": true,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397ad",
+            "imageName": "0048500202777_C1C1.png",
+            "imageHeight": "600px",
+            "imageWidth": "253px",
+            "duplicate": false,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397ad",
+            "imageName": "0048500202777_C1C1.png",
+            "imageHeight": "600px",
+            "imageWidth": "253px",
+            "duplicate": true,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397ae",
+            "imageName": "0050200008214_C1C1.png",
+            "imageHeight": "552px",
+            "imageWidth": "240px",
+            "duplicate": false,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397ae",
+            "imageName": "0050200008214_C1C1.png",
+            "imageHeight": "552px",
+            "imageWidth": "240px",
+            "duplicate": true,
+            "adImageName": ""
+          }
+        ],
+        "height": "400px"
+      },
+      {
+        "slots": [
+          {
+            "prodId": "607a45dc8389dc09d43397af",
+            "imageName": "0025000100000_C1C1.png",
+            "imageHeight": "600px",
+            "imageWidth": "233px",
+            "duplicate": false,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397af",
+            "imageName": "0025000100000_C1C1.png",
+            "imageHeight": "600px",
+            "imageWidth": "233px",
+            "duplicate": true,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397b0",
+            "imageName": "0025000040801_C1C1.png",
+            "imageHeight": "600px",
+            "imageWidth": "233px",
+            "duplicate": false,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397b1",
+            "imageName": "0025000044984_C1C1.png",
+            "imageHeight": "600px",
+            "imageWidth": "233px",
+            "duplicate": false,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397b1",
+            "imageName": "0025000044984_C1C1.png",
+            "imageHeight": "600px",
+            "imageWidth": "233px",
+            "duplicate": true,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397b2",
+            "imageName": "0025000044908_C1C1.png",
+            "imageHeight": "600px",
+            "imageWidth": "233px",
+            "duplicate": false,
+            "adImageName": ""
+          }
+        ],
+        "height": "400px"
+      },
+      {
+        "slots": [
+          {
+            "prodId": "607a45dc8389dc09d43397b3",
+            "imageName": "0815652004180_C2C1_Triplestack.png",
+            "imageHeight": "449px",
+            "imageWidth": "223px",
+            "displayAd": "607a45dc8389dc09d43397b3",
+            "duplicate": false,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397b3",
+            "imageName": "0815652004180_C2C1_Triplestack.png",
+            "imageHeight": "449px",
+            "imageWidth": "223px",
+            "displayAd": "607a45dc8389dc09d43397b3",
+            "duplicate": true,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397b4",
+            "imageName": "0039222000031_C1C1.png",
+            "imageHeight": "449px",
+            "imageWidth": "223px",
+            "displayAd": "607a45dc8389dc09d43397b4",
+            "duplicate": false,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397b5",
+            "imageName": "0044710019884_C1C1.png",
+            "imageHeight": "377px",
+            "imageWidth": "628px",
+            "displayAd": "607a45dc8389dc09d43397b5",
+            "duplicate": false,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397b6",
+            "imageName": "0078354620113_C1C1.png",
+            "imageHeight": "152px",
+            "imageWidth": "282px",
+            "duplicate": false,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397b7",
+            "imageName": "0044100560026_C1C1.png",
+            "imageHeight": "508px",
+            "imageWidth": "156px",
+            "duplicate": false,
+            "adImageName": ""
+          },
+          {
+            "prodId": "607a45dc8389dc09d43397b8",
+            "imageName": "0044100101960_C1C1.png",
+            "imageHeight": "270px",
+            "imageWidth": "230px",
+            "duplicate": false,
+            "adImageName": ""
+          }
+        ],
+        "height": "400px"
+      }
+    ]
+  },
+  "created-date": 20210419222621,
+  "updated-date": 20220322161833,
+  "created-by": "PlanoIngest",
+  "updated-by": "PRODUCT-UPDATER"
+}

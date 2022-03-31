@@ -1,0 +1,1791 @@
+{
+  "session_id": "532f7f52-101f-4f16-8f3d-4c0a0313b69c",
+  "unique_shelf_detection_start_time": "2022-03-28-05-13-59",
+  "unique_shelves": [
+    {
+      "shelf_number": 1,
+      "shelf_name": "shelf1",
+      "shelf_image": "top-shelf1.jpg",
+      "orig_image": "top.jpg",
+      "cropped_shelf_width": 770,
+      "cropped_shelf_height": 270,
+      "bounding_box": [
+        197,
+        180,
+        967,
+        450
+      ],
+      "planogram": {
+        "slots_count": 9,
+        "slots": [
+          {
+            "slot_number": 1,
+            "slot_width": 224.0,
+            "upc": "04410011478",
+            "product_name": "HD COTT CHS SNGL",
+            "slot_width_pct": 12.78,
+            "slot_left_pct": 5.64,
+            "slot_right_pct": 17.78,
+            "oos_boundary_box": [
+              43,
+              54,
+              136,
+              216
+            ],
+            "oos_boundary_box_orig": [
+              240,
+              234,
+              333,
+              396
+            ],
+            "item_matched": false,
+            "oos": true,
+            "item_number": -1,
+            "item_dist": -1,
+            "confidence": 1.0
+          },
+          {
+            "slot_number": 2,
+            "slot_width": 152.0,
+            "upc": "04410010316",
+            "product_name": "PT HD H&H",
+            "slot_width_pct": 8.67,
+            "slot_left_pct": 18.21,
+            "slot_right_pct": 26.45,
+            "oos_boundary_box": [
+              140,
+              54,
+              203,
+              216
+            ],
+            "oos_boundary_box_orig": [
+              337,
+              234,
+              400,
+              396
+            ],
+            "item_matched": false,
+            "oos": true,
+            "item_number": -1,
+            "item_dist": -1,
+            "confidence": 1.0
+          },
+          {
+            "slot_number": 3,
+            "slot_width": 161.0,
+            "upc": "05000069225",
+            "product_name": "COFFEEMATE FR VAN",
+            "slot_width_pct": 9.19,
+            "slot_left_pct": 26.91,
+            "slot_right_pct": 35.64,
+            "oos_boundary_box": [
+              207,
+              54,
+              274,
+              216
+            ],
+            "oos_boundary_box_orig": [
+              404,
+              234,
+              471,
+              396
+            ],
+            "item_matched": false,
+            "oos": false,
+            "item_number": 1,
+            "item_dist": -1,
+            "confidence": 0
+          },
+          {
+            "slot_number": 4,
+            "slot_width": 161.0,
+            "upc": "05000056024",
+            "product_name": "COFFMTE HAZELNUT",
+            "slot_width_pct": 9.19,
+            "slot_left_pct": 36.1,
+            "slot_right_pct": 44.83,
+            "oos_boundary_box": [
+              277,
+              54,
+              345,
+              216
+            ],
+            "oos_boundary_box_orig": [
+              474,
+              234,
+              542,
+              396
+            ],
+            "item_matched": true,
+            "oos": false,
+            "item_number": 2,
+            "item_dist": 0.75,
+            "confidence": 0.0
+          },
+          {
+            "slot_number": 5,
+            "slot_width": 161.0,
+            "upc": "05000065286",
+            "product_name": "CFE-MATE SWET CREM",
+            "slot_width_pct": 9.19,
+            "slot_left_pct": 45.29,
+            "slot_right_pct": 54.02,
+            "oos_boundary_box": [
+              348,
+              54,
+              415,
+              216
+            ],
+            "oos_boundary_box_orig": [
+              545,
+              234,
+              612,
+              396
+            ],
+            "item_matched": true,
+            "oos": false,
+            "item_number": 3,
+            "item_dist": 0.12,
+            "confidence": 0.0
+          },
+          {
+            "slot_number": 6,
+            "slot_width": 162.0,
+            "upc": "81829001692",
+            "product_name": "CHOB CREAM UNSWT",
+            "slot_width_pct": 9.25,
+            "slot_left_pct": 54.48,
+            "slot_right_pct": 63.27,
+            "oos_boundary_box": [
+              419,
+              54,
+              487,
+              216
+            ],
+            "oos_boundary_box_orig": [
+              616,
+              234,
+              684,
+              396
+            ],
+            "item_matched": true,
+            "oos": false,
+            "item_number": 4,
+            "item_dist": 0.97,
+            "confidence": 0.0
+          },
+          {
+            "slot_number": 7,
+            "slot_width": 162.0,
+            "upc": "81829001693",
+            "product_name": "CHOB CREAM VAN",
+            "slot_width_pct": 9.25,
+            "slot_left_pct": 63.73,
+            "slot_right_pct": 72.52,
+            "oos_boundary_box": [
+              490,
+              54,
+              558,
+              216
+            ],
+            "oos_boundary_box_orig": [
+              687,
+              234,
+              755,
+              396
+            ],
+            "item_matched": false,
+            "oos": false,
+            "item_number": 5,
+            "item_dist": -1,
+            "confidence": 0
+          },
+          {
+            "slot_number": 8,
+            "slot_width": 197.0,
+            "upc": "81363602023",
+            "product_name": "BETTERHALF ORIG",
+            "slot_width_pct": 11.24,
+            "slot_left_pct": 73.08,
+            "slot_right_pct": 83.76,
+            "oos_boundary_box": [
+              562,
+              54,
+              644,
+              216
+            ],
+            "oos_boundary_box_orig": [
+              759,
+              234,
+              841,
+              396
+            ],
+            "item_matched": true,
+            "oos": false,
+            "item_number": 6,
+            "item_dist": 0.9,
+            "confidence": 0.0
+          },
+          {
+            "slot_number": 9,
+            "slot_width": 197.0,
+            "upc": "81363602022",
+            "product_name": "BETTERHALF UNSW",
+            "slot_width_pct": 11.24,
+            "slot_left_pct": 84.32,
+            "slot_right_pct": 95.0,
+            "oos_boundary_box": [
+              649,
+              54,
+              731,
+              216
+            ],
+            "oos_boundary_box_orig": [
+              846,
+              234,
+              928,
+              396
+            ],
+            "item_matched": true,
+            "oos": false,
+            "item_number": 7,
+            "item_dist": 0.9,
+            "confidence": 0.0
+          }
+        ]
+      },
+      "items_detected": 4,
+      "items": [
+        {
+          "item_width_px": 80,
+          "item_height_px": 169,
+          "item_width_pct": 10.39,
+          "item_height_pct": 62.59,
+          "item_left_dist_px": 294,
+          "item_left_dist_pct": 38.18,
+          "item_right_dist_px": 396,
+          "item_right_dist_pct": 51.43,
+          "item_bottom_dist_px": 34,
+          "item_bottom_dist_pct": 12.59,
+          "item_number": 1,
+          "item_confidence": 0.6689884066581726,
+          "item_bounding_box_shelf": [
+            294,
+            67,
+            374,
+            236
+          ],
+          "item_bounding_box_orig_image": [
+            491,
+            247,
+            571,
+            416
+          ],
+          "ignore": false,
+          "ignore_reason": null,
+          "slot_matched": true,
+          "slot_idx": 3
+        },
+        {
+          "item_width_px": 78,
+          "item_height_px": 186,
+          "item_width_pct": 10.13,
+          "item_height_pct": 68.89,
+          "item_left_dist_px": 407,
+          "item_left_dist_pct": 52.86,
+          "item_right_dist_px": 285,
+          "item_right_dist_pct": 37.01,
+          "item_bottom_dist_px": 35,
+          "item_bottom_dist_pct": 12.96,
+          "item_number": 2,
+          "item_confidence": 0.6436653137207031,
+          "item_bounding_box_shelf": [
+            407,
+            49,
+            485,
+            235
+          ],
+          "item_bounding_box_orig_image": [
+            604,
+            229,
+            682,
+            415
+          ],
+          "ignore": false,
+          "ignore_reason": null,
+          "slot_matched": true,
+          "slot_idx": 5
+        },
+        {
+          "item_width_px": 76,
+          "item_height_px": 120,
+          "item_width_pct": 9.87,
+          "item_height_pct": 44.44,
+          "item_left_dist_px": 560,
+          "item_left_dist_pct": 72.73,
+          "item_right_dist_px": 134,
+          "item_right_dist_pct": 17.4,
+          "item_bottom_dist_px": 29,
+          "item_bottom_dist_pct": 10.74,
+          "item_number": 3,
+          "item_confidence": 0.9743616580963135,
+          "item_bounding_box_shelf": [
+            560,
+            121,
+            636,
+            241
+          ],
+          "item_bounding_box_orig_image": [
+            757,
+            301,
+            833,
+            421
+          ],
+          "ignore": false,
+          "ignore_reason": null,
+          "slot_matched": true,
+          "slot_idx": 7
+        },
+        {
+          "item_width_px": 81,
+          "item_height_px": 133,
+          "item_width_pct": 10.52,
+          "item_height_pct": 49.26,
+          "item_left_dist_px": 642,
+          "item_left_dist_pct": 83.38,
+          "item_right_dist_px": 47,
+          "item_right_dist_pct": 6.1,
+          "item_bottom_dist_px": 11,
+          "item_bottom_dist_pct": 4.07,
+          "item_number": 4,
+          "item_confidence": 0.824603259563446,
+          "item_bounding_box_shelf": [
+            642,
+            126,
+            723,
+            259
+          ],
+          "item_bounding_box_orig_image": [
+            839,
+            306,
+            920,
+            439
+          ],
+          "ignore": false,
+          "ignore_reason": null,
+          "slot_matched": true,
+          "slot_idx": 8
+        }
+      ],
+      "low_probability_items": []
+    },
+    {
+      "shelf_number": 2,
+      "shelf_name": "shelf2",
+      "shelf_image": "top-shelf2.jpg",
+      "orig_image": "top.jpg",
+      "cropped_shelf_width": 704,
+      "cropped_shelf_height": 341,
+      "bounding_box": [
+        231,
+        454,
+        935,
+        795
+      ],
+      "planogram": {
+        "slots_count": 7,
+        "slots": [
+          {
+            "slot_number": 1,
+            "slot_width": 176.0,
+            "upc": "04410010367",
+            "product_name": "QT HD H&H",
+            "slot_width_pct": 11.17,
+            "slot_left_pct": 5.56,
+            "slot_right_pct": 16.17,
+            "oos_boundary_box": [
+              39,
+              68,
+              113,
+              272
+            ],
+            "oos_boundary_box_orig": [
+              270,
+              522,
+              344,
+              726
+            ],
+            "item_matched": true,
+            "oos": false,
+            "item_number": 8,
+            "item_dist": 0.53,
+            "confidence": 0.0
+          },
+          {
+            "slot_number": 2,
+            "slot_width": 207.0,
+            "upc": "04127101788",
+            "product_name": "EXTRA EXTRA",
+            "slot_width_pct": 13.14,
+            "slot_left_pct": 16.83,
+            "slot_right_pct": 29.31,
+            "oos_boundary_box": [
+              118,
+              68,
+              206,
+              272
+            ],
+            "oos_boundary_box_orig": [
+              349,
+              522,
+              437,
+              726
+            ],
+            "item_matched": true,
+            "oos": false,
+            "item_number": 9,
+            "item_dist": 0.84,
+            "confidence": 0.0
+          },
+          {
+            "slot_number": 3,
+            "slot_width": 207.0,
+            "upc": "04127101788",
+            "product_name": "EXTRA EXTRA",
+            "slot_width_pct": 13.14,
+            "slot_left_pct": 29.97,
+            "slot_right_pct": 42.45,
+            "oos_boundary_box": [
+              210,
+              68,
+              298,
+              272
+            ],
+            "oos_boundary_box_orig": [
+              441,
+              522,
+              529,
+              726
+            ],
+            "item_matched": true,
+            "oos": false,
+            "item_number": 10,
+            "item_dist": 0.86,
+            "confidence": 0.0
+          },
+          {
+            "slot_number": 4,
+            "slot_width": 207.0,
+            "upc": "04127102700",
+            "product_name": "DD VANILLA",
+            "slot_width_pct": 13.14,
+            "slot_left_pct": 43.11,
+            "slot_right_pct": 55.59,
+            "oos_boundary_box": [
+              303,
+              68,
+              391,
+              272
+            ],
+            "oos_boundary_box_orig": [
+              534,
+              522,
+              622,
+              726
+            ],
+            "item_matched": true,
+            "oos": false,
+            "item_number": 11,
+            "item_dist": 0.88,
+            "confidence": 0.0
+          },
+          {
+            "slot_number": 5,
+            "slot_width": 207.0,
+            "upc": "04127102700",
+            "product_name": "DD VANILLA",
+            "slot_width_pct": 13.14,
+            "slot_left_pct": 56.25,
+            "slot_right_pct": 68.73,
+            "oos_boundary_box": [
+              396,
+              68,
+              483,
+              272
+            ],
+            "oos_boundary_box_orig": [
+              627,
+              522,
+              714,
+              726
+            ],
+            "item_matched": true,
+            "oos": false,
+            "item_number": 12,
+            "item_dist": 0.97,
+            "confidence": 0.0
+          },
+          {
+            "slot_number": 6,
+            "slot_width": 207.0,
+            "upc": "04127102564",
+            "product_name": "INTRNATIONAL DLGHT",
+            "slot_width_pct": 13.14,
+            "slot_left_pct": 69.39,
+            "slot_right_pct": 81.87,
+            "oos_boundary_box": [
+              488,
+              68,
+              576,
+              272
+            ],
+            "oos_boundary_box_orig": [
+              719,
+              522,
+              807,
+              726
+            ],
+            "item_matched": true,
+            "oos": false,
+            "item_number": 13,
+            "item_dist": 0.73,
+            "confidence": 0.0
+          },
+          {
+            "slot_number": 7,
+            "slot_width": 207.0,
+            "upc": "04127100955",
+            "product_name": "INT DEL CAR MACH",
+            "slot_width_pct": 13.14,
+            "slot_left_pct": 82.53,
+            "slot_right_pct": 95.01,
+            "oos_boundary_box": [
+              581,
+              68,
+              668,
+              272
+            ],
+            "oos_boundary_box_orig": [
+              812,
+              522,
+              899,
+              726
+            ],
+            "item_matched": true,
+            "oos": false,
+            "item_number": 14,
+            "item_dist": 0.84,
+            "confidence": 0.0
+          }
+        ]
+      },
+      "items_detected": 7,
+      "items": [
+        {
+          "item_width_px": 77,
+          "item_height_px": 221,
+          "item_width_pct": 10.94,
+          "item_height_pct": 64.81,
+          "item_left_dist_px": 1,
+          "item_left_dist_pct": 0.14,
+          "item_right_dist_px": 626,
+          "item_right_dist_pct": 88.92,
+          "item_bottom_dist_px": 35,
+          "item_bottom_dist_pct": 10.26,
+          "item_number": 1,
+          "item_confidence": 0.9107837677001953,
+          "item_bounding_box_shelf": [
+            1,
+            85,
+            78,
+            306
+          ],
+          "item_bounding_box_orig_image": [
+            232,
+            539,
+            309,
+            760
+          ],
+          "ignore": false,
+          "ignore_reason": null,
+          "slot_matched": true,
+          "slot_idx": 0
+        },
+        {
+          "item_width_px": 95,
+          "item_height_px": 246,
+          "item_width_pct": 13.49,
+          "item_height_pct": 72.14,
+          "item_left_dist_px": 97,
+          "item_left_dist_pct": 13.78,
+          "item_right_dist_px": 512,
+          "item_right_dist_pct": 72.73,
+          "item_bottom_dist_px": 36,
+          "item_bottom_dist_pct": 10.56,
+          "item_number": 2,
+          "item_confidence": 0.7825794219970703,
+          "item_bounding_box_shelf": [
+            97,
+            59,
+            192,
+            305
+          ],
+          "item_bounding_box_orig_image": [
+            328,
+            513,
+            423,
+            759
+          ],
+          "ignore": false,
+          "ignore_reason": null,
+          "slot_matched": true,
+          "slot_idx": 1
+        },
+        {
+          "item_width_px": 89,
+          "item_height_px": 244,
+          "item_width_pct": 12.64,
+          "item_height_pct": 71.55,
+          "item_left_dist_px": 197,
+          "item_left_dist_pct": 27.98,
+          "item_right_dist_px": 418,
+          "item_right_dist_pct": 59.38,
+          "item_bottom_dist_px": 38,
+          "item_bottom_dist_pct": 11.14,
+          "item_number": 3,
+          "item_confidence": 0.971563994884491,
+          "item_bounding_box_shelf": [
+            197,
+            59,
+            286,
+            303
+          ],
+          "item_bounding_box_orig_image": [
+            428,
+            513,
+            517,
+            757
+          ],
+          "ignore": false,
+          "ignore_reason": null,
+          "slot_matched": true,
+          "slot_idx": 2
+        },
+        {
+          "item_width_px": 87,
+          "item_height_px": 244,
+          "item_width_pct": 12.36,
+          "item_height_pct": 71.55,
+          "item_left_dist_px": 293,
+          "item_left_dist_pct": 41.62,
+          "item_right_dist_px": 324,
+          "item_right_dist_pct": 46.02,
+          "item_bottom_dist_px": 39,
+          "item_bottom_dist_pct": 11.44,
+          "item_number": 4,
+          "item_confidence": 0.9839708209037781,
+          "item_bounding_box_shelf": [
+            293,
+            58,
+            380,
+            302
+          ],
+          "item_bounding_box_orig_image": [
+            524,
+            512,
+            611,
+            756
+          ],
+          "ignore": false,
+          "ignore_reason": null,
+          "slot_matched": true,
+          "slot_idx": 3
+        },
+        {
+          "item_width_px": 86,
+          "item_height_px": 250,
+          "item_width_pct": 12.22,
+          "item_height_pct": 73.31,
+          "item_left_dist_px": 394,
+          "item_left_dist_pct": 55.97,
+          "item_right_dist_px": 224,
+          "item_right_dist_pct": 31.82,
+          "item_bottom_dist_px": 39,
+          "item_bottom_dist_pct": 11.44,
+          "item_number": 5,
+          "item_confidence": 0.9653811454772949,
+          "item_bounding_box_shelf": [
+            394,
+            52,
+            480,
+            302
+          ],
+          "item_bounding_box_orig_image": [
+            625,
+            506,
+            711,
+            756
+          ],
+          "ignore": false,
+          "ignore_reason": null,
+          "slot_matched": true,
+          "slot_idx": 4
+        },
+        {
+          "item_width_px": 72,
+          "item_height_px": 247,
+          "item_width_pct": 10.23,
+          "item_height_pct": 72.43,
+          "item_left_dist_px": 480,
+          "item_left_dist_pct": 68.18,
+          "item_right_dist_px": 152,
+          "item_right_dist_pct": 21.59,
+          "item_bottom_dist_px": 49,
+          "item_bottom_dist_pct": 14.37,
+          "item_number": 6,
+          "item_confidence": 0.735166609287262,
+          "item_bounding_box_shelf": [
+            480,
+            45,
+            552,
+            292
+          ],
+          "item_bounding_box_orig_image": [
+            711,
+            499,
+            783,
+            746
+          ],
+          "ignore": false,
+          "ignore_reason": null,
+          "slot_matched": true,
+          "slot_idx": 5
+        },
+        {
+          "item_width_px": 89,
+          "item_height_px": 242,
+          "item_width_pct": 12.64,
+          "item_height_pct": 70.97,
+          "item_left_dist_px": 595,
+          "item_left_dist_pct": 84.52,
+          "item_right_dist_px": 20,
+          "item_right_dist_pct": 2.84,
+          "item_bottom_dist_px": 39,
+          "item_bottom_dist_pct": 11.44,
+          "item_number": 7,
+          "item_confidence": 0.973869264125824,
+          "item_bounding_box_shelf": [
+            595,
+            60,
+            684,
+            302
+          ],
+          "item_bounding_box_orig_image": [
+            826,
+            514,
+            915,
+            756
+          ],
+          "ignore": false,
+          "ignore_reason": null,
+          "slot_matched": true,
+          "slot_idx": 6
+        }
+      ],
+      "low_probability_items": []
+    },
+    {
+      "shelf_number": 3,
+      "shelf_name": "shelf3",
+      "shelf_image": "middle-shelf3.jpg",
+      "orig_image": "middle.jpg",
+      "cropped_shelf_width": 875,
+      "cropped_shelf_height": 430,
+      "bounding_box": [
+        211,
+        216,
+        1086,
+        646
+      ],
+      "planogram": {
+        "slots_count": 6,
+        "slots": [
+          {
+            "slot_number": 1,
+            "slot_width": 253.0,
+            "upc": "04850020274",
+            "product_name": "TROP PURE PREM OJ",
+            "slot_width_pct": 15.26,
+            "slot_left_pct": 5.76,
+            "slot_right_pct": 20.26,
+            "oos_boundary_box": [
+              50,
+              86,
+              177,
+              344
+            ],
+            "oos_boundary_box_orig": [
+              261,
+              302,
+              388,
+              560
+            ],
+            "item_matched": true,
+            "oos": false,
+            "item_number": 15,
+            "item_dist": 0.64,
+            "confidence": 0.0
+          },
+          {
+            "slot_number": 2,
+            "slot_width": 253.0,
+            "upc": "04850020274",
+            "product_name": "TROP PURE PREM OJ",
+            "slot_width_pct": 15.26,
+            "slot_left_pct": 21.02,
+            "slot_right_pct": 35.52,
+            "oos_boundary_box": [
+              183,
+              86,
+              310,
+              344
+            ],
+            "oos_boundary_box_orig": [
+              394,
+              302,
+              521,
+              560
+            ],
+            "item_matched": true,
+            "oos": false,
+            "item_number": 16,
+            "item_dist": 0.52,
+            "confidence": 0.0
+          },
+          {
+            "slot_number": 3,
+            "slot_width": 253.0,
+            "upc": "04850020277",
+            "product_name": "TROP OJ W/ CALCIUM",
+            "slot_width_pct": 15.26,
+            "slot_left_pct": 36.28,
+            "slot_right_pct": 50.78,
+            "oos_boundary_box": [
+              317,
+              86,
+              444,
+              344
+            ],
+            "oos_boundary_box_orig": [
+              528,
+              302,
+              655,
+              560
+            ],
+            "item_matched": true,
+            "oos": false,
+            "item_number": 17,
+            "item_dist": 0.58,
+            "confidence": 0.0
+          },
+          {
+            "slot_number": 4,
+            "slot_width": 253.0,
+            "upc": "04850020277",
+            "product_name": "TROP OJ W/ CALCIUM",
+            "slot_width_pct": 15.26,
+            "slot_left_pct": 51.54,
+            "slot_right_pct": 66.04,
+            "oos_boundary_box": [
+              450,
+              86,
+              577,
+              344
+            ],
+            "oos_boundary_box_orig": [
+              661,
+              302,
+              788,
+              560
+            ],
+            "item_matched": true,
+            "oos": false,
+            "item_number": 18,
+            "item_dist": 0.57,
+            "confidence": 0.0
+          },
+          {
+            "slot_number": 5,
+            "slot_width": 240.0,
+            "upc": "05020000821",
+            "product_name": "TANGY ORIG SUNNYD",
+            "slot_width_pct": 14.48,
+            "slot_left_pct": 66.76,
+            "slot_right_pct": 80.52,
+            "oos_boundary_box": [
+              584,
+              86,
+              704,
+              344
+            ],
+            "oos_boundary_box_orig": [
+              795,
+              302,
+              915,
+              560
+            ],
+            "item_matched": true,
+            "oos": false,
+            "item_number": 19,
+            "item_dist": 0.58,
+            "confidence": 0.0
+          },
+          {
+            "slot_number": 6,
+            "slot_width": 240.0,
+            "upc": "05020000821",
+            "product_name": "TANGY ORIG SUNNYD",
+            "slot_width_pct": 14.48,
+            "slot_left_pct": 81.24,
+            "slot_right_pct": 95.0,
+            "oos_boundary_box": [
+              710,
+              86,
+              831,
+              344
+            ],
+            "oos_boundary_box_orig": [
+              921,
+              302,
+              1042,
+              560
+            ],
+            "item_matched": true,
+            "oos": false,
+            "item_number": 20,
+            "item_dist": 0.94,
+            "confidence": 0.0
+          }
+        ]
+      },
+      "items_detected": 6,
+      "items": [
+        {
+          "item_width_px": 99,
+          "item_height_px": 268,
+          "item_width_pct": 11.31,
+          "item_height_pct": 62.33,
+          "item_left_dist_px": 32,
+          "item_left_dist_pct": 3.66,
+          "item_right_dist_px": 744,
+          "item_right_dist_pct": 85.03,
+          "item_bottom_dist_px": 51,
+          "item_bottom_dist_pct": 11.86,
+          "item_number": 1,
+          "item_confidence": 0.9122800230979919,
+          "item_bounding_box_shelf": [
+            32,
+            111,
+            131,
+            379
+          ],
+          "item_bounding_box_orig_image": [
+            243,
+            327,
+            342,
+            595
+          ],
+          "ignore": false,
+          "ignore_reason": null,
+          "slot_matched": true,
+          "slot_idx": 0
+        },
+        {
+          "item_width_px": 108,
+          "item_height_px": 278,
+          "item_width_pct": 12.34,
+          "item_height_pct": 64.65,
+          "item_left_dist_px": 130,
+          "item_left_dist_pct": 14.86,
+          "item_right_dist_px": 637,
+          "item_right_dist_pct": 72.8,
+          "item_bottom_dist_px": 49,
+          "item_bottom_dist_pct": 11.4,
+          "item_number": 2,
+          "item_confidence": 0.6655192375183105,
+          "item_bounding_box_shelf": [
+            130,
+            103,
+            238,
+            381
+          ],
+          "item_bounding_box_orig_image": [
+            341,
+            319,
+            449,
+            597
+          ],
+          "ignore": false,
+          "ignore_reason": null,
+          "slot_matched": false
+        },
+        {
+          "item_width_px": 123,
+          "item_height_px": 287,
+          "item_width_pct": 14.06,
+          "item_height_pct": 66.74,
+          "item_left_dist_px": 244,
+          "item_left_dist_pct": 27.89,
+          "item_right_dist_px": 508,
+          "item_right_dist_pct": 58.06,
+          "item_bottom_dist_px": 45,
+          "item_bottom_dist_pct": 10.47,
+          "item_number": 3,
+          "item_confidence": 0.9998103380203247,
+          "item_bounding_box_shelf": [
+            244,
+            98,
+            367,
+            385
+          ],
+          "item_bounding_box_orig_image": [
+            455,
+            314,
+            578,
+            601
+          ],
+          "ignore": false,
+          "ignore_reason": null,
+          "slot_matched": true,
+          "slot_idx": 1
+        },
+        {
+          "item_width_px": 132,
+          "item_height_px": 301,
+          "item_width_pct": 15.09,
+          "item_height_pct": 70.0,
+          "item_left_dist_px": 370,
+          "item_left_dist_pct": 42.29,
+          "item_right_dist_px": 373,
+          "item_right_dist_pct": 42.63,
+          "item_bottom_dist_px": 37,
+          "item_bottom_dist_pct": 8.6,
+          "item_number": 4,
+          "item_confidence": 0.9999076128005981,
+          "item_bounding_box_shelf": [
+            370,
+            92,
+            502,
+            393
+          ],
+          "item_bounding_box_orig_image": [
+            581,
+            308,
+            713,
+            609
+          ],
+          "ignore": false,
+          "ignore_reason": null,
+          "slot_matched": true,
+          "slot_idx": 2
+        },
+        {
+          "item_width_px": 150,
+          "item_height_px": 318,
+          "item_width_pct": 17.14,
+          "item_height_pct": 73.95,
+          "item_left_dist_px": 504,
+          "item_left_dist_pct": 57.6,
+          "item_right_dist_px": 221,
+          "item_right_dist_pct": 25.26,
+          "item_bottom_dist_px": 27,
+          "item_bottom_dist_pct": 6.28,
+          "item_number": 5,
+          "item_confidence": 0.9993175268173218,
+          "item_bounding_box_shelf": [
+            504,
+            85,
+            654,
+            403
+          ],
+          "item_bounding_box_orig_image": [
+            715,
+            301,
+            865,
+            619
+          ],
+          "ignore": false,
+          "ignore_reason": null,
+          "slot_matched": true,
+          "slot_idx": 4
+        },
+        {
+          "item_width_px": 168,
+          "item_height_px": 328,
+          "item_width_pct": 19.2,
+          "item_height_pct": 76.28,
+          "item_left_dist_px": 656,
+          "item_left_dist_pct": 74.97,
+          "item_right_dist_px": 51,
+          "item_right_dist_pct": 5.83,
+          "item_bottom_dist_px": 20,
+          "item_bottom_dist_pct": 4.65,
+          "item_number": 6,
+          "item_confidence": 0.5234812498092651,
+          "item_bounding_box_shelf": [
+            656,
+            82,
+            824,
+            410
+          ],
+          "item_bounding_box_orig_image": [
+            867,
+            298,
+            1035,
+            626
+          ],
+          "ignore": false,
+          "ignore_reason": null,
+          "slot_matched": true,
+          "slot_idx": 5
+        }
+      ],
+      "low_probability_items": []
+    },
+    {
+      "shelf_number": 4,
+      "shelf_name": "shelf4",
+      "shelf_image": "middle-shelf4.jpg",
+      "orig_image": "middle.jpg",
+      "cropped_shelf_width": 890,
+      "cropped_shelf_height": 335,
+      "bounding_box": [
+        191,
+        624,
+        1081,
+        959
+      ],
+      "planogram": {
+        "slots_count": 6,
+        "slots": [
+          {
+            "slot_number": 1,
+            "slot_width": 233.0,
+            "upc": "02500010000",
+            "product_name": "SIMPLY ORNGE JUICE",
+            "slot_width_pct": 15.0,
+            "slot_left_pct": 5.75,
+            "slot_right_pct": 20.0,
+            "oos_boundary_box": [
+              51,
+              67,
+              178,
+              268
+            ],
+            "oos_boundary_box_orig": [
+              242,
+              691,
+              369,
+              892
+            ],
+            "item_matched": true,
+            "oos": false,
+            "item_number": 21,
+            "item_dist": 0.9,
+            "confidence": 0.0
+          },
+          {
+            "slot_number": 2,
+            "slot_width": 233.0,
+            "upc": "02500010000",
+            "product_name": "SIMPLY ORNGE JUICE",
+            "slot_width_pct": 15.0,
+            "slot_left_pct": 20.75,
+            "slot_right_pct": 35.0,
+            "oos_boundary_box": [
+              184,
+              67,
+              311,
+              268
+            ],
+            "oos_boundary_box_orig": [
+              375,
+              691,
+              502,
+              892
+            ],
+            "item_matched": true,
+            "oos": false,
+            "item_number": 22,
+            "item_dist": 0.83,
+            "confidence": 0.0
+          },
+          {
+            "slot_number": 3,
+            "slot_width": 233.0,
+            "upc": "02500004080",
+            "product_name": "SIMPLY ORANGE MANG",
+            "slot_width_pct": 15.0,
+            "slot_left_pct": 35.75,
+            "slot_right_pct": 50.0,
+            "oos_boundary_box": [
+              318,
+              67,
+              445,
+              268
+            ],
+            "oos_boundary_box_orig": [
+              509,
+              691,
+              636,
+              892
+            ],
+            "item_matched": true,
+            "oos": false,
+            "item_number": 23,
+            "item_dist": 0.73,
+            "confidence": 0.0
+          },
+          {
+            "slot_number": 4,
+            "slot_width": 233.0,
+            "upc": "02500004498",
+            "product_name": "SIMPLY LEMONADE",
+            "slot_width_pct": 15.0,
+            "slot_left_pct": 50.75,
+            "slot_right_pct": 65.0,
+            "oos_boundary_box": [
+              451,
+              67,
+              578,
+              268
+            ],
+            "oos_boundary_box_orig": [
+              642,
+              691,
+              769,
+              892
+            ],
+            "item_matched": true,
+            "oos": false,
+            "item_number": 24,
+            "item_dist": 0.72,
+            "confidence": 0.0
+          },
+          {
+            "slot_number": 5,
+            "slot_width": 233.0,
+            "upc": "02500004498",
+            "product_name": "SIMPLY LEMONADE",
+            "slot_width_pct": 15.0,
+            "slot_left_pct": 65.75,
+            "slot_right_pct": 80.0,
+            "oos_boundary_box": [
+              585,
+              67,
+              712,
+              268
+            ],
+            "oos_boundary_box_orig": [
+              776,
+              691,
+              903,
+              892
+            ],
+            "item_matched": true,
+            "oos": false,
+            "item_number": 25,
+            "item_dist": 0.91,
+            "confidence": 0.0
+          },
+          {
+            "slot_number": 6,
+            "slot_width": 233.0,
+            "upc": "02500004490",
+            "product_name": "SIMPLY LMNADE RSPB",
+            "slot_width_pct": 15.0,
+            "slot_left_pct": 80.75,
+            "slot_right_pct": 95.0,
+            "oos_boundary_box": [
+              718,
+              67,
+              845,
+              268
+            ],
+            "oos_boundary_box_orig": [
+              909,
+              691,
+              1036,
+              892
+            ],
+            "item_matched": true,
+            "oos": false,
+            "item_number": 26,
+            "item_dist": 1.0,
+            "confidence": 0.0
+          }
+        ]
+      },
+      "items_detected": 6,
+      "items": [
+        {
+          "item_width_px": 114,
+          "item_height_px": 313,
+          "item_width_pct": 12.81,
+          "item_height_pct": 93.43,
+          "item_left_dist_px": 54,
+          "item_left_dist_pct": 6.07,
+          "item_right_dist_px": 722,
+          "item_right_dist_pct": 81.12,
+          "item_bottom_dist_px": 15,
+          "item_bottom_dist_pct": 4.48,
+          "item_number": 1,
+          "item_confidence": 0.8316905498504639,
+          "item_bounding_box_shelf": [
+            54,
+            7,
+            168,
+            320
+          ],
+          "item_bounding_box_orig_image": [
+            245,
+            631,
+            359,
+            944
+          ],
+          "ignore": false,
+          "ignore_reason": null,
+          "slot_matched": true,
+          "slot_idx": 0
+        },
+        {
+          "item_width_px": 117,
+          "item_height_px": 311,
+          "item_width_pct": 13.15,
+          "item_height_pct": 92.84,
+          "item_left_dist_px": 172,
+          "item_left_dist_pct": 19.33,
+          "item_right_dist_px": 601,
+          "item_right_dist_pct": 67.53,
+          "item_bottom_dist_px": 11,
+          "item_bottom_dist_pct": 3.28,
+          "item_number": 2,
+          "item_confidence": 0.8422802686691284,
+          "item_bounding_box_shelf": [
+            172,
+            13,
+            289,
+            324
+          ],
+          "item_bounding_box_orig_image": [
+            363,
+            637,
+            480,
+            948
+          ],
+          "ignore": false,
+          "ignore_reason": null,
+          "slot_matched": true,
+          "slot_idx": 1
+        },
+        {
+          "item_width_px": 122,
+          "item_height_px": 310,
+          "item_width_pct": 13.71,
+          "item_height_pct": 92.54,
+          "item_left_dist_px": 289,
+          "item_left_dist_pct": 32.47,
+          "item_right_dist_px": 479,
+          "item_right_dist_pct": 53.82,
+          "item_bottom_dist_px": 9,
+          "item_bottom_dist_pct": 2.69,
+          "item_number": 3,
+          "item_confidence": 0.875361442565918,
+          "item_bounding_box_shelf": [
+            289,
+            16,
+            411,
+            326
+          ],
+          "item_bounding_box_orig_image": [
+            480,
+            640,
+            602,
+            950
+          ],
+          "ignore": false,
+          "ignore_reason": null,
+          "slot_matched": true,
+          "slot_idx": 2
+        },
+        {
+          "item_width_px": 129,
+          "item_height_px": 314,
+          "item_width_pct": 14.49,
+          "item_height_pct": 93.73,
+          "item_left_dist_px": 413,
+          "item_left_dist_pct": 46.4,
+          "item_right_dist_px": 348,
+          "item_right_dist_pct": 39.1,
+          "item_bottom_dist_px": 2,
+          "item_bottom_dist_pct": 0.6,
+          "item_number": 4,
+          "item_confidence": 0.9043975472450256,
+          "item_bounding_box_shelf": [
+            413,
+            19,
+            542,
+            333
+          ],
+          "item_bounding_box_orig_image": [
+            604,
+            643,
+            733,
+            957
+          ],
+          "ignore": false,
+          "ignore_reason": null,
+          "slot_matched": true,
+          "slot_idx": 3
+        },
+        {
+          "item_width_px": 150,
+          "item_height_px": 308,
+          "item_width_pct": 16.85,
+          "item_height_pct": 91.94,
+          "item_left_dist_px": 551,
+          "item_left_dist_pct": 61.91,
+          "item_right_dist_px": 189,
+          "item_right_dist_pct": 21.24,
+          "item_bottom_dist_px": 1,
+          "item_bottom_dist_pct": 0.3,
+          "item_number": 5,
+          "item_confidence": 0.9939730763435364,
+          "item_bounding_box_shelf": [
+            551,
+            26,
+            701,
+            334
+          ],
+          "item_bounding_box_orig_image": [
+            742,
+            650,
+            892,
+            958
+          ],
+          "ignore": false,
+          "ignore_reason": null,
+          "slot_matched": true,
+          "slot_idx": 4
+        },
+        {
+          "item_width_px": 149,
+          "item_height_px": 289,
+          "item_width_pct": 16.74,
+          "item_height_pct": 86.27,
+          "item_left_dist_px": 709,
+          "item_left_dist_pct": 79.66,
+          "item_right_dist_px": 32,
+          "item_right_dist_pct": 3.6,
+          "item_bottom_dist_px": 1,
+          "item_bottom_dist_pct": 0.3,
+          "item_number": 6,
+          "item_confidence": 0.9934357404708862,
+          "item_bounding_box_shelf": [
+            709,
+            45,
+            858,
+            334
+          ],
+          "item_bounding_box_orig_image": [
+            900,
+            669,
+            1049,
+            958
+          ],
+          "ignore": false,
+          "ignore_reason": null,
+          "slot_matched": true,
+          "slot_idx": 5
+        }
+      ],
+      "low_probability_items": []
+    },
+    {
+      "shelf_number": 5,
+      "shelf_name": "shelf5",
+      "shelf_image": "bottom-shelf5.jpg",
+      "orig_image": "bottom.jpg",
+      "cropped_shelf_width": 787,
+      "cropped_shelf_height": 461,
+      "bounding_box": [
+        180,
+        321,
+        967,
+        782
+      ],
+      "planogram": {
+        "slots_count": 7,
+        "slots": [
+          {
+            "slot_number": 1,
+            "slot_width": 223.0,
+            "upc": "81565200418",
+            "product_name": "NELLIE FR EGGS",
+            "slot_width_pct": 10.21,
+            "slot_left_pct": 5.51,
+            "slot_right_pct": 15.21,
+            "oos_boundary_box": [
+              43,
+              92,
+              119,
+              368
+            ],
+            "oos_boundary_box_orig": [
+              223,
+              413,
+              299,
+              689
+            ],
+            "item_matched": false,
+            "oos": true,
+            "item_number": -1,
+            "item_dist": -1,
+            "confidence": 1.0
+          },
+          {
+            "slot_number": 2,
+            "slot_width": 223.0,
+            "upc": "81565200418",
+            "product_name": "NELLIE FR EGGS",
+            "slot_width_pct": 10.21,
+            "slot_left_pct": 15.72,
+            "slot_right_pct": 25.42,
+            "oos_boundary_box": [
+              123,
+              92,
+              200,
+              368
+            ],
+            "oos_boundary_box_orig": [
+              303,
+              413,
+              380,
+              689
+            ],
+            "item_matched": false,
+            "oos": true,
+            "item_number": -1,
+            "item_dist": -1,
+            "confidence": 1.0
+          },
+          {
+            "slot_number": 3,
+            "slot_width": 223.0,
+            "upc": "03922200003",
+            "product_name": "MITLY LG GRD A EGG",
+            "slot_width_pct": 10.21,
+            "slot_left_pct": 25.93,
+            "slot_right_pct": 35.63,
+            "oos_boundary_box": [
+              204,
+              92,
+              280,
+              368
+            ],
+            "oos_boundary_box_orig": [
+              384,
+              413,
+              460,
+              689
+            ],
+            "item_matched": false,
+            "oos": true,
+            "item_number": -1,
+            "item_dist": -1,
+            "confidence": 1.0
+          },
+          {
+            "slot_number": 4,
+            "slot_width": 628.0,
+            "upc": "04471001988",
+            "product_name": "OM HW SMOKE BACON",
+            "slot_width_pct": 28.76,
+            "slot_left_pct": 37.07,
+            "slot_right_pct": 64.39,
+            "oos_boundary_box": [
+              291,
+              92,
+              506,
+              368
+            ],
+            "oos_boundary_box_orig": [
+              471,
+              413,
+              686,
+              689
+            ],
+            "item_matched": false,
+            "oos": true,
+            "item_number": -1,
+            "item_dist": -1,
+            "confidence": 1.0
+          },
+          {
+            "slot_number": 5,
+            "slot_width": 282.0,
+            "upc": "07835462011",
+            "product_name": "CABOT BUTTER QTRS",
+            "slot_width_pct": 12.92,
+            "slot_left_pct": 65.04,
+            "slot_right_pct": 77.31,
+            "oos_boundary_box": [
+              511,
+              92,
+              608,
+              368
+            ],
+            "oos_boundary_box_orig": [
+              691,
+              413,
+              788,
+              689
+            ],
+            "item_matched": true,
+            "oos": false,
+            "item_number": 27,
+            "item_dist": 0.94,
+            "confidence": 0.0
+          },
+          {
+            "slot_number": 6,
+            "slot_width": 156.0,
+            "upc": "04410056002",
+            "product_name": "HOOD WHIPPED CREAM",
+            "slot_width_pct": 7.15,
+            "slot_left_pct": 77.67,
+            "slot_right_pct": 84.46,
+            "oos_boundary_box": [
+              611,
+              92,
+              664,
+              368
+            ],
+            "oos_boundary_box_orig": [
+              791,
+              413,
+              844,
+              689
+            ],
+            "item_matched": false,
+            "oos": false,
+            "item_number": 28,
+            "item_dist": -1,
+            "confidence": 0
+          },
+          {
+            "slot_number": 7,
+            "slot_width": 230.0,
+            "upc": "04410010196",
+            "product_name": "HOOD SOUR CREAM",
+            "slot_width_pct": 10.53,
+            "slot_left_pct": 84.99,
+            "slot_right_pct": 94.99,
+            "oos_boundary_box": [
+              668,
+              92,
+              747,
+              368
+            ],
+            "oos_boundary_box_orig": [
+              848,
+              413,
+              927,
+              689
+            ],
+            "item_matched": true,
+            "oos": false,
+            "item_number": 29,
+            "item_dist": 1.0,
+            "confidence": 0.0
+          }
+        ]
+      },
+      "items_detected": 2,
+      "items": [
+        {
+          "item_width_px": 153,
+          "item_height_px": 191,
+          "item_width_pct": 19.44,
+          "item_height_pct": 41.43,
+          "item_left_dist_px": 449,
+          "item_left_dist_pct": 57.05,
+          "item_right_dist_px": 185,
+          "item_right_dist_pct": 23.51,
+          "item_bottom_dist_px": 77,
+          "item_bottom_dist_pct": 16.7,
+          "item_number": 1,
+          "item_confidence": 0.8858291506767273,
+          "item_bounding_box_shelf": [
+            449,
+            193,
+            602,
+            384
+          ],
+          "item_bounding_box_orig_image": [
+            629,
+            514,
+            782,
+            705
+          ],
+          "ignore": false,
+          "ignore_reason": null,
+          "slot_matched": true,
+          "slot_idx": 4
+        },
+        {
+          "item_width_px": 117,
+          "item_height_px": 243,
+          "item_width_pct": 14.87,
+          "item_height_pct": 52.71,
+          "item_left_dist_px": 638,
+          "item_left_dist_pct": 81.07,
+          "item_right_dist_px": 32,
+          "item_right_dist_pct": 4.07,
+          "item_bottom_dist_px": 67,
+          "item_bottom_dist_pct": 14.53,
+          "item_number": 2,
+          "item_confidence": 0.8356177806854248,
+          "item_bounding_box_shelf": [
+            638,
+            151,
+            755,
+            394
+          ],
+          "item_bounding_box_orig_image": [
+            818,
+            472,
+            935,
+            715
+          ],
+          "ignore": false,
+          "ignore_reason": null,
+          "slot_matched": true,
+          "slot_idx": 6
+        }
+      ],
+      "low_probability_items": []
+    }
+  ],
+  "unique_shelves-0": [],
+  "unique_shelves-1": [],
+  "unique_shelf_detection_complete": true,
+  "unique_shelf_detection_reason": "NONE",
+  "total_unique_shelves": 5,
+  "total_objects": 35,
+  "object_detection_complete": true,
+  "detected_objects": 0,
+  "detected_objects_pct": 0.0,
+  "datetime": "2022-03-28-05-14-00",
+  "oos_inference_complete": true
+}
